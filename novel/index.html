@@ -58,14 +58,14 @@
 		<h4>&nbsp; &nbsp; this.distanceOf(Creator, Distance, Creator.getPointing()) # 50 cm away from Creator</h4>
 		<h4>&nbsp; &nbsp; this.setLifeTime(Time) # stays for 10 sec after onActivate</h4>
 		<h4></h4>
-		<h4>&nbsp; &nbsp; def onActivate():</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; giveInstance() # lets the creator know this instance number</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; while(this.getDistance(Creator) != Distance):</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; this.follow(Creator)</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if input():</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; argNew = exist(Argv())</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; argList = arg.split()</h4>
-		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if argList[1] == “Dim”: exit()</h4>
+		<h4>def onActivate():</h4>
+		<h4>&nbsp; &nbsp; giveInstance() # lets the creator know this instance number</h4>
+		<h4>&nbsp; &nbsp; while(this.getDistance(Creator) != Distance):</h4>
+		<h4>&nbsp; &nbsp; &nbsp; &nbsp; this.follow(Creator)</h4>
+		<h4>&nbsp; &nbsp; &nbsp; &nbsp; if input():</h4>
+		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; argNew = exist(Argv())</h4>
+		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; argList = arg.split()</h4>
+		<h4>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if argList[1] == “Dim”: exit()</h4>
       </div>
 
       <div class="jumbotron">
