@@ -51,13 +51,13 @@
         <h4>Time = float.exist(argList[1])</h4>
 		<h4>Distance = float.exist(argList[2])</h4>
 		<h4>Lumen = float.exist(argList[0])</h4>
-		<h4></h4>
+		<h4></h4><br>
 		<h4>def onCreate(MP=10.0, Time=10.0, Distance=50.0, Lumen=1000.0):</h4>
 		<h4>&nbsp; &nbsp; this.putMP(MP) # intialize Indicator with MP</h4>
 		<h4>&nbsp; &nbsp; this.visible(True, Lumen) # 1000 Lumen = 1 MP</h4>
 		<h4>&nbsp; &nbsp; this.distanceOf(Creator, Distance, Creator.getPointing()) # 50 cm away from Creator</h4>
 		<h4>&nbsp; &nbsp; this.setLifeTime(Time) # stays for 10 sec after onActivate</h4>
-		<h4></h4>
+		<h4></h4><br>
 		<h4>def onActivate():</h4>
 		<h4>&nbsp; &nbsp; giveInstance() # lets the creator know this instance number</h4>
 		<h4>&nbsp; &nbsp; while(this.getDistance(Creator) != Distance):</h4>
