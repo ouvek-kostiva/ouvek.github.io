@@ -1,0 +1,4 @@
+---
+layout: novel
+permalink: /novel/
+---

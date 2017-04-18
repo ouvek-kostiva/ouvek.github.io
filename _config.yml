@@ -1,0 +1,30 @@
+title: Ouvek 雜記
+author: © 黃信元 Huang, Hsin-Yuan
+email: cv@ouvek.com
+description: > # this means to ignore newlines until "baseurl:"
+  我是黃信元，目前在高雄應用科技大學就讀資訊管理系三年級，目前最常用 Python。
+  會一點網頁前後端技術、常用 Linux ，最近在研究 Python 的機器學習和資料科學函式庫。
+  目的是要用機器學習開發金融市場投資工具。
+
+github_username:  ouvek-kostiva
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+disqus:
+    shortname: ouvek
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
+future: true
+timezone: Asia/Taipei
