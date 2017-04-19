@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔法程式 Spell Casting as Software"
+title: "水城系統主城 Vasyrsxdat Default City"
 secondary: "novel"
 published: true
 comments: true
