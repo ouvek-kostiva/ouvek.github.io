@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll"
+title:  "Deep Learning Note 1"
 date:   2017-04-19 16:16:01 -0600
 categories: jekyll update
 ---
+
+Courses from _Udacity_ _Deep_ _Learning_
 
 ### Quiz: Softmax
 #### Note: Your softmax(x) function should return a NumPy array of the same shape as x.
