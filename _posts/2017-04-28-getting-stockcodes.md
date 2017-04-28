@@ -11,6 +11,7 @@ date:   2017-04-28 16:20:00 -0600
 #### 匯出成 Excel 檔後轉成 CSV
 #### 再將 CSV 檔用匯入成 Dataframe
 #### 為方便之後使用我將 Dataframe Pickle 起來
+##### TEJ 沒有 API 只能匯出 QQ
 
 ```python
 import pandas as pd
