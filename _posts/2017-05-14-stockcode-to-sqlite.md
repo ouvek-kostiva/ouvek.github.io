@@ -6,14 +6,15 @@ date:   2017-05-15 01:25:00 +0800
 
 # 將「上市上櫃」及「終止上市公司代碼」匯入資料庫
 
-### [Pandas DataFrame Pickle 檔](https://github.com/ouvek-kostiva/stockchooser/tree/master/Data)
-### 終止上市 Suspended.pkl, 上市 codelist_2.pkl, 上櫃 codelist_4.pkl
+#### [Pandas DataFrame Pickle 檔](https://github.com/ouvek-kostiva/stockchooser/tree/master/Data)
+#### 終止上市 Suspended.pkl, 上市 codelist_2.pkl, 上櫃 codelist_4.pkl
 
-### 將上方檔案匯入 SQLite3 資料庫
+#### 將上方檔案匯入 SQLite3 資料庫
 
-### 欄位 "code"(股票代號) "type"(上市twse/上櫃tpse/終止上市delisted)
+#### 欄位 "code"(股票代號) "type"(上市twse/上櫃tpse/終止上市delisted)
 
-> ### 確定檔案可讀
+> #### 確定檔案可讀
+
 ```python
 # Check Pickle is correct
 
@@ -27,7 +28,8 @@ print(twse.head())
 print(tpex.tail())
 ```
 
-> ### 建立 SQLite3 資料庫檔案
+> #### 建立 SQLite3 資料庫檔案
+
 ```python
 # Create SQLite DB
 
@@ -61,7 +63,8 @@ conn.commit()
 conn.close()
 ```
 
-> ### 萬一執行 SQL Query 時出錯, 執行下列兩行中斷資料庫連線
+> #### 萬一執行 SQL Query 時出錯, 執行下列兩行中斷資料庫連線
+
 ```python
 # Close Connection
 
@@ -69,7 +72,8 @@ conn.commit()
 conn.close()
 ```
 
-> ### 確定並將 Delisted DataFrame 轉為 str
+> #### 確定並將 Delisted DataFrame 轉為 str
+
 ```python
 # Test Iterate delisted through DataFrame
 
@@ -78,7 +82,8 @@ for index, row in delisted.head().iterrows():
     print(type(str(row[0][0])))
 ```
 
-> ### 將 Delisted 匯入資料庫
+> #### 將 Delisted 匯入資料庫
+
 ```python
 # Insert Delisted Stock Codes to DB
 
@@ -96,7 +101,8 @@ conn.commit()
 conn.close()
 ```
 
-> ### 因為上市公司是利用網站爬蟲抓取, 移除標題文字
+> #### 因為上市公司是利用網站爬蟲抓取, 移除標題文字
+
 ```python
 # Remove Title from Stock Codes TWSE
 
@@ -117,7 +123,8 @@ for index, row in twse.iterrows():
 print(twsli[0:5])
 ```
 
-> ### 將上市公司代號輸入資料庫
+> #### 將上市公司代號輸入資料庫
+
 ```python
 sqlite_file = 'list.sqlite'
 table_stock = 'StockList'
@@ -133,7 +140,8 @@ conn.commit()
 conn.close()
 ```
 
-> ### 上櫃公司同上市公司
+> #### 上櫃公司同上市公司
+
 ```python
 # Remove Title from Stock Codes TPSE
 
@@ -154,7 +162,8 @@ for index, row in tpex.iterrows():
 print(tpli)
 ```
 
-> ### 上櫃公司代號匯入資料庫
+> #### 上櫃公司代號匯入資料庫
+
 ```python
 sqlite_file = 'list.sqlite'
 table_stock = 'StockList'
