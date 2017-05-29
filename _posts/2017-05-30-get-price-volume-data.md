@@ -11,6 +11,7 @@ date:   2017-05-17 20:00:00 +0800
 
 
 > 副程式區
+
 ```python
 __author__ = "Ouvek Kostiva"
 __copyright__ = "2017"
@@ -111,6 +112,7 @@ def toDataList(fileName):
 ```
 
 > 實際執行
+
 ```python
 codeList = getListedCode("twse",4) #get Stock Codes
 #codeList = codeList[5:10] #get first 5 stock Codes
