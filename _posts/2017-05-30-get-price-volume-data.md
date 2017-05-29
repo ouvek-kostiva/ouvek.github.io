@@ -20,8 +20,6 @@ __maintainer__ = "Huang Hsin Yuan"
 __email__ = "kostiva@ouvek.com"
 __status__ = "Prototype"
 
-
-
 def getListedCode(typ="twse",codeLength=4):
     import sqlite3
     sqlite_file = "list.db" #上市上櫃下市 股票代號列表 資料庫檔案
