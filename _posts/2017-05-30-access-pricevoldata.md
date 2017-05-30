@@ -8,6 +8,10 @@ date:   2017-05-30 12:00:00 +0800
 
 #### [檔案](https://www.dropbox.com/sh/u2p603dijgychy5/AABh8zkOcqFvnqUumJr3t8zza?dl=0)
 
+> list.db 為上市上櫃下市股票代號列表
+>
+> PriceVolData.db 為上市股票10年每日價量資料
+
 > 下載後在 GoogleAPIv3 資料夾執行
 
 ```python
