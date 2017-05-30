@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "十年每日價量資料"
+title:  "讀取價量資料"
 date:   2017-05-30 12:00:00 +0800
 ---
 
-# 十年每日價量資料
+# 讀取價量資料
 
 #### [檔案](https://www.dropbox.com/sh/u2p603dijgychy5/AABh8zkOcqFvnqUumJr3t8zza?dl=0)
 
