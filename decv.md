@@ -9,7 +9,7 @@ Huang, Hsin-Yuan
 
 #### Ich bin an der Hochschule von Kaohsiung, Wirtschaftsinformatik für das dritte Studienjahr. 
 #### Ich hab Front & Back-end in Web Anwendungen, Datenbankschema Entwurf, Linux & Bash und Python Bibliothek wie Sklearn (Machine Learning) & Pandas (Data Analysis) gelernt.
-#### Kontaktieren mich mit [Email](mailto:cv@ouvek.com)
+#### Kontaktieren mich per [Email](mailto:cv@ouvek.com)
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
