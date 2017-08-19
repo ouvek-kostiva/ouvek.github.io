@@ -1,5 +1,5 @@
 ---
 layout: live4program
-title: 直播學程式
+title: 直播和專頁
 permalink: /live4program/
 ---
