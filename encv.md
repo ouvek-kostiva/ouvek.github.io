@@ -9,7 +9,7 @@ Huang, Hsin-Yuan
 
 #### I am a 3<sup>rd</sup> year student in Kaohsiung University of Applied Sciences major in Management Information System.
 #### I know some Front and Back-end in Web Application, how to design Database Schema, Linux & Bash and Python Libraries such as Sklearn (Machine Learning) & Pandas (Data Analysis) for developing Fintech Apps in Financial Markets.
-#### Contact me via [Forms](https://docs.google.com/forms/d/e/1FAIpQLSdWXKrOMT1Tfzv2cetdpUWdOV1iwAzC1txz9Lhc78WAKsAaJQ/viewform) or [Email](mailto:cv@ouvek.com)
+#### Contact me via [Email](mailto:cv@ouvek.com)
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
