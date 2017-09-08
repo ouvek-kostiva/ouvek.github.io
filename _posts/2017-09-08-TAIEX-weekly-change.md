@@ -6,6 +6,8 @@ date:   2017-09-08 19:00:00 +0800
 
 # 最近在做週選擇權
 
+### 圖下方為每週變化, 左方為週數
+
 #### 1年每週收盤價變動
 ![1Yr Change](http://ouvek-kostiva.github.io/assets/img/post/2017-09-08/TAIEX1Y.png)
 
