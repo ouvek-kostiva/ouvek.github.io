@@ -10,7 +10,7 @@ date:   2017-09-17 17:30:00 +0800
 ##########################################################################################
 # Technical Analysis Data
 # MACD, RSI, SMA, EMA
-#  https://matplotlib.org/examples/pylab_examples/finance_work2.html
+# 技術指標來源： https://matplotlib.org/examples/pylab_examples/finance_work2.html
 ##########################################################################################
 
 def getTicker():
