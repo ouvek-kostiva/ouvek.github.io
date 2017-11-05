@@ -1,5 +1,5 @@
 ---
 layout: novel
-title: Blog
+title: 小說
 permalink: /novel/
 ---
