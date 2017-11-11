@@ -1,0 +1,1826 @@
+1101
+Correct: 559 Incorrect: 157 Accuracy: 0.7807262569832403 PredNo: 716
+1102
+Correct: 523 Incorrect: 195 Accuracy: 0.7284122562674095 PredNo: 718
+1103
+Correct: 575 Incorrect: 114 Accuracy: 0.8345428156748912 PredNo: 689
+1104
+Correct: 562 Incorrect: 138 Accuracy: 0.8028571428571428 PredNo: 700
+1108
+Correct: 547 Incorrect: 149 Accuracy: 0.7859195402298851 PredNo: 696
+1109
+Correct: 492 Incorrect: 158 Accuracy: 0.7569230769230769 PredNo: 650
+1110
+Correct: 484 Incorrect: 206 Accuracy: 0.7014492753623188 PredNo: 690
+1201
+Correct: 555 Incorrect: 162 Accuracy: 0.7740585774058577 PredNo: 717
+1203
+Correct: 529 Incorrect: 158 Accuracy: 0.7700145560407569 PredNo: 687
+1210
+Correct: 603 Incorrect: 104 Accuracy: 0.8528995756718529 PredNo: 707
+1213
+Correct: 493 Incorrect: 204 Accuracy: 0.7073170731707317 PredNo: 697
+1215
+Correct: 365 Incorrect: 338 Accuracy: 0.519203413940256 PredNo: 703
+1216
+Correct: 487 Incorrect: 225 Accuracy: 0.6839887640449438 PredNo: 712
+1217
+Correct: 489 Incorrect: 214 Accuracy: 0.6955903271692745 PredNo: 703
+1218
+Correct: 641 Incorrect: 51 Accuracy: 0.9263005780346821 PredNo: 692
+1219
+Correct: 426 Incorrect: 238 Accuracy: 0.641566265060241 PredNo: 664
+1220
+Correct: 500 Incorrect: 170 Accuracy: 0.746268656716418 PredNo: 670
+1225
+Correct: 307 Incorrect: 377 Accuracy: 0.44883040935672514 PredNo: 684
+1227
+Correct: 683 Incorrect: 31 Accuracy: 0.9565826330532213 PredNo: 714
+1229
+Correct: 460 Incorrect: 231 Accuracy: 0.6657018813314037 PredNo: 691
+1231
+Correct: 547 Incorrect: 164 Accuracy: 0.7693389592123769 PredNo: 711
+1232
+Correct: 512 Incorrect: 191 Accuracy: 0.7283072546230441 PredNo: 703
+1233
+Correct: 534 Incorrect: 150 Accuracy: 0.7807017543859649 PredNo: 684
+1234
+Correct: 484 Incorrect: 217 Accuracy: 0.6904422253922967 PredNo: 701
+1235
+Correct: 538 Incorrect: 149 Accuracy: 0.7831149927219796 PredNo: 687
+1236
+Correct: 545 Incorrect: 150 Accuracy: 0.7841726618705036 PredNo: 695
+1256
+Correct: 39 Incorrect: 40 Accuracy: 0.4936708860759494 PredNo: 79
+1262
+Correct: 164 Incorrect: 70 Accuracy: 0.7008547008547008 PredNo: 234
+1301
+Correct: 565 Incorrect: 149 Accuracy: 0.7913165266106442 PredNo: 714
+1303
+Correct: 579 Incorrect: 136 Accuracy: 0.8097902097902098 PredNo: 715
+1304
+Correct: 625 Incorrect: 85 Accuracy: 0.8802816901408451 PredNo: 710
+1305
+Correct: 522 Incorrect: 191 Accuracy: 0.7321178120617111 PredNo: 713
+1307
+Correct: 453 Incorrect: 250 Accuracy: 0.6443812233285917 PredNo: 703
+1308
+Correct: 563 Incorrect: 146 Accuracy: 0.7940761636107193 PredNo: 709
+1309
+Correct: 663 Incorrect: 44 Accuracy: 0.9377652050919377 PredNo: 707
+1310
+Correct: 553 Incorrect: 154 Accuracy: 0.7821782178217822 PredNo: 707
+1312
+Correct: 554 Incorrect: 151 Accuracy: 0.7858156028368795 PredNo: 705
+1313
+Correct: 457 Incorrect: 243 Accuracy: 0.6528571428571428 PredNo: 700
+1314
+Correct: 607 Incorrect: 101 Accuracy: 0.8573446327683616 PredNo: 708
+1315
+Correct: 553 Incorrect: 140 Accuracy: 0.797979797979798 PredNo: 693
+1316
+Correct: 520 Incorrect: 179 Accuracy: 0.7439198855507868 PredNo: 699
+1319
+Correct: 418 Incorrect: 297 Accuracy: 0.5846153846153846 PredNo: 715
+1321
+Correct: 511 Incorrect: 200 Accuracy: 0.7187060478199718 PredNo: 711
+1323
+Correct: 544 Incorrect: 165 Accuracy: 0.767277856135402 PredNo: 709
+1324
+Correct: 542 Incorrect: 149 Accuracy: 0.784370477568741 PredNo: 691
+1325
+Correct: 525 Incorrect: 151 Accuracy: 0.7766272189349113 PredNo: 676
+1326
+Correct: 601 Incorrect: 113 Accuracy: 0.8417366946778712 PredNo: 714
+1337
+Correct: 298 Incorrect: 114 Accuracy: 0.7233009708737864 PredNo: 412
+1338
+Correct: 270 Incorrect: 45 Accuracy: 0.8571428571428571 PredNo: 315
+1339
+Correct: 256 Incorrect: 99 Accuracy: 0.7211267605633803 PredNo: 355
+1340
+Correct: 227 Incorrect: 8 Accuracy: 0.9659574468085106 PredNo: 235
+1402
+Correct: 550 Incorrect: 170 Accuracy: 0.7638888888888888 PredNo: 720
+1409
+Correct: 597 Incorrect: 101 Accuracy: 0.8553008595988538 PredNo: 698
+1410
+Correct: 454 Incorrect: 238 Accuracy: 0.6560693641618497 PredNo: 692
+1413
+Correct: 552 Incorrect: 154 Accuracy: 0.7818696883852692 PredNo: 706
+1414
+Correct: 592 Incorrect: 121 Accuracy: 0.8302945301542777 PredNo: 713
+1416
+Correct: 555 Incorrect: 139 Accuracy: 0.7997118155619597 PredNo: 694
+1417
+Correct: 645 Incorrect: 70 Accuracy: 0.9020979020979021 PredNo: 715
+1418
+Correct: 514 Incorrect: 190 Accuracy: 0.7301136363636364 PredNo: 704
+1419
+Correct: 563 Incorrect: 141 Accuracy: 0.7997159090909091 PredNo: 704
+1423
+Correct: 646 Incorrect: 63 Accuracy: 0.9111424541607899 PredNo: 709
+1432
+Correct: 454 Incorrect: 171 Accuracy: 0.7264 PredNo: 625
+1434
+Correct: 521 Incorrect: 182 Accuracy: 0.7411095305832148 PredNo: 703
+1435
+Correct: 550 Incorrect: 158 Accuracy: 0.7768361581920904 PredNo: 708
+1436
+Correct: 660 Incorrect: 30 Accuracy: 0.9565217391304348 PredNo: 690
+1437
+Correct: 574 Incorrect: 133 Accuracy: 0.8118811881188119 PredNo: 707
+1438
+Correct: 424 Incorrect: 184 Accuracy: 0.6973684210526315 PredNo: 608
+1439
+Correct: 556 Incorrect: 140 Accuracy: 0.7988505747126436 PredNo: 696
+1440
+Correct: 517 Incorrect: 185 Accuracy: 0.7364672364672364 PredNo: 702
+1441
+Correct: 562 Incorrect: 145 Accuracy: 0.7949080622347949 PredNo: 707
+1442
+Correct: 580 Incorrect: 123 Accuracy: 0.8250355618776671 PredNo: 703
+1443
+Correct: 478 Incorrect: 233 Accuracy: 0.6722925457102672 PredNo: 711
+1444
+Correct: 608 Incorrect: 96 Accuracy: 0.8636363636363636 PredNo: 704
+1445
+Correct: 441 Incorrect: 268 Accuracy: 0.6220028208744711 PredNo: 709
+1446
+Correct: 525 Incorrect: 176 Accuracy: 0.7489300998573466 PredNo: 701
+1447
+Correct: 589 Incorrect: 121 Accuracy: 0.8295774647887324 PredNo: 710
+1449
+Correct: 466 Incorrect: 218 Accuracy: 0.6812865497076024 PredNo: 684
+1451
+Correct: 451 Incorrect: 240 Accuracy: 0.6526772793053546 PredNo: 691
+1452
+Correct: 404 Incorrect: 298 Accuracy: 0.5754985754985755 PredNo: 702
+1453
+Correct: 526 Incorrect: 165 Accuracy: 0.7612156295224313 PredNo: 691
+1454
+Correct: 452 Incorrect: 254 Accuracy: 0.6402266288951841 PredNo: 706
+1455
+Correct: 594 Incorrect: 118 Accuracy: 0.8342696629213483 PredNo: 712
+1456
+Correct: 442 Incorrect: 225 Accuracy: 0.6626686656671664 PredNo: 667
+1457
+Correct: 475 Incorrect: 232 Accuracy: 0.6718528995756718 PredNo: 707
+1459
+Correct: 527 Incorrect: 183 Accuracy: 0.7422535211267606 PredNo: 710
+1460
+Correct: 431 Incorrect: 279 Accuracy: 0.6070422535211267 PredNo: 710
+1463
+Correct: 466 Incorrect: 236 Accuracy: 0.6638176638176638 PredNo: 702
+1464
+Correct: 454 Incorrect: 251 Accuracy: 0.6439716312056738 PredNo: 705
+1465
+Correct: 611 Incorrect: 64 Accuracy: 0.9051851851851852 PredNo: 675
+1466
+Correct: 565 Incorrect: 145 Accuracy: 0.795774647887324 PredNo: 710
+1467
+Correct: 523 Incorrect: 181 Accuracy: 0.7428977272727273 PredNo: 704
+1468
+Correct: 566 Incorrect: 124 Accuracy: 0.8202898550724638 PredNo: 690
+1469
+Correct: 490 Incorrect: 174 Accuracy: 0.7379518072289156 PredNo: 664
+1470
+Correct: 369 Incorrect: 310 Accuracy: 0.5434462444771723 PredNo: 679
+1471
+Correct: 667 Incorrect: 48 Accuracy: 0.9328671328671329 PredNo: 715
+1472
+Correct: 621 Incorrect: 89 Accuracy: 0.8746478873239436 PredNo: 710
+1473
+Correct: 579 Incorrect: 130 Accuracy: 0.8166431593794076 PredNo: 709
+1474
+Correct: 507 Incorrect: 196 Accuracy: 0.7211948790896159 PredNo: 703
+1475
+Correct: 460 Incorrect: 208 Accuracy: 0.688622754491018 PredNo: 668
+1476
+Correct: 449 Incorrect: 268 Accuracy: 0.6262203626220363 PredNo: 717
+1477
+Correct: 513 Incorrect: 194 Accuracy: 0.7256011315417256 PredNo: 707
+1503
+Correct: 564 Incorrect: 131 Accuracy: 0.8115107913669065 PredNo: 695
+1504
+Correct: 638 Incorrect: 69 Accuracy: 0.9024045261669024 PredNo: 707
+1506
+Correct: 413 Incorrect: 277 Accuracy: 0.5985507246376811 PredNo: 690
+1507
+Correct: 576 Incorrect: 139 Accuracy: 0.8055944055944056 PredNo: 715
+1512
+Correct: 621 Incorrect: 94 Accuracy: 0.8685314685314686 PredNo: 715
+1513
+Correct: 517 Incorrect: 174 Accuracy: 0.748191027496382 PredNo: 691
+1514
+Correct: 540 Incorrect: 171 Accuracy: 0.759493670886076 PredNo: 711
+1515
+Correct: 506 Incorrect: 195 Accuracy: 0.7218259629101283 PredNo: 701
+1516
+Correct: 395 Incorrect: 272 Accuracy: 0.5922038980509745 PredNo: 667
+1517
+Correct: 586 Incorrect: 97 Accuracy: 0.8579795021961932 PredNo: 683
+1519
+Correct: 543 Incorrect: 159 Accuracy: 0.7735042735042735 PredNo: 702
+1521
+Correct: 503 Incorrect: 210 Accuracy: 0.7054698457223001 PredNo: 713
+1522
+Correct: 435 Incorrect: 274 Accuracy: 0.613540197461213 PredNo: 709
+1524
+Correct: 523 Incorrect: 185 Accuracy: 0.7387005649717514 PredNo: 708
+1525
+Correct: 481 Incorrect: 226 Accuracy: 0.6803394625176803 PredNo: 707
+1526
+Correct: 399 Incorrect: 299 Accuracy: 0.5716332378223495 PredNo: 698
+1527
+Correct: 548 Incorrect: 162 Accuracy: 0.7718309859154929 PredNo: 710
+1528
+Correct: 558 Incorrect: 141 Accuracy: 0.7982832618025751 PredNo: 699
+1529
+Correct: 430 Incorrect: 271 Accuracy: 0.6134094151212554 PredNo: 701
+1530
+Correct: 530 Incorrect: 183 Accuracy: 0.7433380084151473 PredNo: 713
+1531
+Correct: 643 Incorrect: 59 Accuracy: 0.915954415954416 PredNo: 702
+1532
+Correct: 553 Incorrect: 161 Accuracy: 0.7745098039215687 PredNo: 714
+1533
+Correct: 543 Incorrect: 172 Accuracy: 0.7594405594405594 PredNo: 715
+1535
+Correct: 639 Incorrect: 71 Accuracy: 0.9 PredNo: 710
+1536
+Correct: 384 Incorrect: 325 Accuracy: 0.5416078984485191 PredNo: 709
+1537
+Correct: 368 Incorrect: 345 Accuracy: 0.5161290322580645 PredNo: 713
+1538
+Correct: 675 Incorrect: 37 Accuracy: 0.9480337078651685 PredNo: 712
+1539
+Correct: 454 Incorrect: 262 Accuracy: 0.6340782122905028 PredNo: 716
+1540
+Correct: 597 Incorrect: 102 Accuracy: 0.8540772532188842 PredNo: 699
+1541
+Correct: 414 Incorrect: 292 Accuracy: 0.5864022662889519 PredNo: 706
+1558
+Correct: 117 Incorrect: 44 Accuracy: 0.7267080745341615 PredNo: 161
+1560
+Correct: 520 Incorrect: 195 Accuracy: 0.7272727272727273 PredNo: 715
+1568
+Correct: 140 Incorrect: 75 Accuracy: 0.6511627906976745 PredNo: 215
+1582
+Correct: 346 Incorrect: 181 Accuracy: 0.6565464895635673 PredNo: 527
+1583
+Correct: 552 Incorrect: 114 Accuracy: 0.8288288288288288 PredNo: 666
+1589
+Correct: 287 Incorrect: 75 Accuracy: 0.7928176795580111 PredNo: 362
+1590
+Correct: 348 Incorrect: 111 Accuracy: 0.7581699346405228 PredNo: 459
+1592
+Correct: 128 Incorrect: 56 Accuracy: 0.6956521739130435 PredNo: 184
+1598
+Correct: 24 Incorrect: 21 Accuracy: 0.5333333333333333 PredNo: 45
+1603
+Correct: 534 Incorrect: 157 Accuracy: 0.7727930535455861 PredNo: 691
+1604
+Correct: 382 Incorrect: 310 Accuracy: 0.5520231213872833 PredNo: 692
+1605
+Correct: 548 Incorrect: 164 Accuracy: 0.7696629213483146 PredNo: 712
+1608
+Correct: 579 Incorrect: 113 Accuracy: 0.8367052023121387 PredNo: 692
+1609
+Correct: 511 Incorrect: 200 Accuracy: 0.7187060478199718 PredNo: 711
+1611
+Correct: 685 Incorrect: 24 Accuracy: 0.9661495063469676 PredNo: 709
+1612
+Correct: 495 Incorrect: 203 Accuracy: 0.7091690544412608 PredNo: 698
+1613
+Correct: 584 Incorrect: 117 Accuracy: 0.833095577746077 PredNo: 701
+1614
+Correct: 615 Incorrect: 88 Accuracy: 0.8748221906116643 PredNo: 703
+1615
+Correct: 591 Incorrect: 91 Accuracy: 0.8665689149560117 PredNo: 682
+1616
+Correct: 603 Incorrect: 106 Accuracy: 0.8504936530324401 PredNo: 709
+1617
+Correct: 592 Incorrect: 117 Accuracy: 0.8349788434414669 PredNo: 709
+1618
+Correct: 599 Incorrect: 109 Accuracy: 0.846045197740113 PredNo: 708
+1626
+Correct: 175 Incorrect: 121 Accuracy: 0.5912162162162162 PredNo: 296
+1701
+Correct: 629 Incorrect: 73 Accuracy: 0.896011396011396 PredNo: 702
+1702
+Correct: 535 Incorrect: 182 Accuracy: 0.7461645746164575 PredNo: 717
+1704
+Correct: 538 Incorrect: 180 Accuracy: 0.7493036211699164 PredNo: 718
+1707
+Correct: 480 Incorrect: 236 Accuracy: 0.6703910614525139 PredNo: 716
+1708
+Correct: 564 Incorrect: 143 Accuracy: 0.7977369165487977 PredNo: 707
+1709
+Correct: 554 Incorrect: 136 Accuracy: 0.8028985507246377 PredNo: 690
+1710
+Correct: 618 Incorrect: 99 Accuracy: 0.8619246861924686 PredNo: 717
+1711
+Correct: 532 Incorrect: 180 Accuracy: 0.7471910112359551 PredNo: 712
+1712
+Correct: 455 Incorrect: 231 Accuracy: 0.6632653061224489 PredNo: 686
+1713
+Correct: 489 Incorrect: 195 Accuracy: 0.7149122807017544 PredNo: 684
+1714
+Correct: 637 Incorrect: 67 Accuracy: 0.9048295454545454 PredNo: 704
+1715
+Correct: 519 Incorrect: 178 Accuracy: 0.7446197991391679 PredNo: 697
+1717
+Correct: 556 Incorrect: 152 Accuracy: 0.7853107344632768 PredNo: 708
+1718
+Correct: 679 Incorrect: 30 Accuracy: 0.9576868829337094 PredNo: 709
+1720
+Correct: 578 Incorrect: 133 Accuracy: 0.8129395218002813 PredNo: 711
+1721
+Correct: 608 Incorrect: 97 Accuracy: 0.8624113475177305 PredNo: 705
+1722
+Correct: 456 Incorrect: 255 Accuracy: 0.6413502109704642 PredNo: 711
+1723
+Correct: 543 Incorrect: 147 Accuracy: 0.7869565217391304 PredNo: 690
+1724
+Correct: 605 Incorrect: 97 Accuracy: 0.8618233618233618 PredNo: 702
+1725
+Correct: 480 Incorrect: 206 Accuracy: 0.6997084548104956 PredNo: 686
+1726
+Correct: 503 Incorrect: 201 Accuracy: 0.7144886363636364 PredNo: 704
+1727
+Correct: 491 Incorrect: 210 Accuracy: 0.7004279600570613 PredNo: 701
+1729
+Correct: 455 Incorrect: 260 Accuracy: 0.6363636363636364 PredNo: 715
+1730
+Correct: 385 Incorrect: 311 Accuracy: 0.5531609195402298 PredNo: 696
+1731
+Correct: 495 Incorrect: 195 Accuracy: 0.717391304347826 PredNo: 690
+1732
+Correct: 550 Incorrect: 132 Accuracy: 0.8064516129032258 PredNo: 682
+1733
+Correct: 661 Incorrect: 46 Accuracy: 0.9349363507779349 PredNo: 707
+1734
+Correct: 568 Incorrect: 146 Accuracy: 0.7955182072829131 PredNo: 714
+1735
+Correct: 506 Incorrect: 158 Accuracy: 0.7620481927710844 PredNo: 664
+1736
+Correct: 476 Incorrect: 242 Accuracy: 0.6629526462395543 PredNo: 718
+1737
+Correct: 427 Incorrect: 281 Accuracy: 0.6031073446327684 PredNo: 708
+1762
+Correct: 355 Incorrect: 101 Accuracy: 0.7785087719298246 PredNo: 456
+1773
+Correct: 603 Incorrect: 49 Accuracy: 0.9248466257668712 PredNo: 652
+1776
+Correct: 45 Incorrect: 26 Accuracy: 0.6338028169014085 PredNo: 71
+1783
+Correct: 198 Incorrect: 45 Accuracy: 0.8148148148148148 PredNo: 243
+1786
+Correct: 235 Incorrect: 16 Accuracy: 0.9362549800796812 PredNo: 251
+1789
+Correct: 334 Incorrect: 74 Accuracy: 0.8186274509803921 PredNo: 408
+1802
+Correct: 590 Incorrect: 118 Accuracy: 0.8333333333333334 PredNo: 708
+1805
+Correct: 482 Incorrect: 165 Accuracy: 0.7449768160741885 PredNo: 647
+1806
+Correct: 636 Incorrect: 67 Accuracy: 0.9046941678520626 PredNo: 703
+1808
+Correct: 412 Incorrect: 163 Accuracy: 0.7165217391304348 PredNo: 575
+1809
+Correct: 543 Incorrect: 154 Accuracy: 0.7790530846484935 PredNo: 697
+1810
+Correct: 577 Incorrect: 115 Accuracy: 0.8338150289017341 PredNo: 692
+1817
+Correct: 187 Incorrect: 64 Accuracy: 0.7450199203187251 PredNo: 251
+1902
+Correct: 539 Incorrect: 143 Accuracy: 0.7903225806451613 PredNo: 682
+1903
+Correct: 534 Incorrect: 182 Accuracy: 0.7458100558659218 PredNo: 716
+1904
+Correct: 519 Incorrect: 144 Accuracy: 0.7828054298642534 PredNo: 663
+1905
+Correct: 555 Incorrect: 151 Accuracy: 0.7861189801699717 PredNo: 706
+1906
+Correct: 445 Incorrect: 266 Accuracy: 0.6258790436005626 PredNo: 711
+1907
+Correct: 613 Incorrect: 76 Accuracy: 0.8896952104499274 PredNo: 689
+1909
+Correct: 508 Incorrect: 191 Accuracy: 0.7267525035765379 PredNo: 699
+2002
+Correct: 553 Incorrect: 154 Accuracy: 0.7821782178217822 PredNo: 707
+2006
+Correct: 608 Incorrect: 93 Accuracy: 0.8673323823109843 PredNo: 701
+2007
+Correct: 497 Incorrect: 201 Accuracy: 0.7120343839541547 PredNo: 698
+2008
+Correct: 520 Incorrect: 169 Accuracy: 0.7547169811320755 PredNo: 689
+2009
+Correct: 563 Incorrect: 135 Accuracy: 0.8065902578796562 PredNo: 698
+2010
+Correct: 552 Incorrect: 110 Accuracy: 0.8338368580060423 PredNo: 662
+2012
+Correct: 349 Incorrect: 327 Accuracy: 0.5162721893491125 PredNo: 676
+2013
+Correct: 569 Incorrect: 130 Accuracy: 0.8140200286123033 PredNo: 699
+2014
+Correct: 554 Incorrect: 155 Accuracy: 0.7813822284908322 PredNo: 709
+2015
+Correct: 684 Incorrect: 24 Accuracy: 0.9661016949152542 PredNo: 708
+2017
+Correct: 556 Incorrect: 148 Accuracy: 0.7897727272727273 PredNo: 704
+2020
+Correct: 483 Incorrect: 202 Accuracy: 0.7051094890510949 PredNo: 685
+2022
+Correct: 604 Incorrect: 108 Accuracy: 0.848314606741573 PredNo: 712
+2023
+Correct: 598 Incorrect: 103 Accuracy: 0.8530670470756063 PredNo: 701
+2024
+Correct: 444 Incorrect: 264 Accuracy: 0.6271186440677966 PredNo: 708
+2025
+Correct: 550 Incorrect: 135 Accuracy: 0.8029197080291971 PredNo: 685
+2027
+Correct: 543 Incorrect: 156 Accuracy: 0.776824034334764 PredNo: 699
+2028
+Correct: 673 Incorrect: 31 Accuracy: 0.9559659090909091 PredNo: 704
+2029
+Correct: 518 Incorrect: 184 Accuracy: 0.7378917378917379 PredNo: 702
+2030
+Correct: 510 Incorrect: 192 Accuracy: 0.7264957264957265 PredNo: 702
+2031
+Correct: 573 Incorrect: 134 Accuracy: 0.8104667609618105 PredNo: 707
+2032
+Correct: 550 Incorrect: 156 Accuracy: 0.7790368271954674 PredNo: 706
+2033
+Correct: 651 Incorrect: 48 Accuracy: 0.9313304721030042 PredNo: 699
+2034
+Correct: 548 Incorrect: 165 Accuracy: 0.7685834502103787 PredNo: 713
+2038
+Correct: 558 Incorrect: 116 Accuracy: 0.827893175074184 PredNo: 674
+2049
+Correct: 466 Incorrect: 102 Accuracy: 0.8204225352112676 PredNo: 568
+2059
+Correct: 485 Incorrect: 222 Accuracy: 0.685997171145686 PredNo: 707
+2062
+Correct: 482 Incorrect: 225 Accuracy: 0.6817538896746818 PredNo: 707
+2069
+Correct: 37 Incorrect: 44 Accuracy: 0.4567901234567901 PredNo: 81
+2101
+Correct: 540 Incorrect: 179 Accuracy: 0.7510431154381085 PredNo: 719
+2102
+Correct: 526 Incorrect: 178 Accuracy: 0.7471590909090909 PredNo: 704
+2103
+Correct: 588 Incorrect: 130 Accuracy: 0.8189415041782729 PredNo: 718
+2104
+Correct: 620 Incorrect: 92 Accuracy: 0.8707865168539326 PredNo: 712
+2105
+Correct: 630 Incorrect: 90 Accuracy: 0.875 PredNo: 720
+2106
+Correct: 560 Incorrect: 152 Accuracy: 0.7865168539325843 PredNo: 712
+2107
+Correct: 566 Incorrect: 139 Accuracy: 0.8028368794326242 PredNo: 705
+2108
+Correct: 560 Incorrect: 147 Accuracy: 0.7920792079207921 PredNo: 707
+2109
+Correct: 539 Incorrect: 163 Accuracy: 0.7678062678062678 PredNo: 702
+2114
+Correct: 398 Incorrect: 53 Accuracy: 0.8824833702882483 PredNo: 451
+2115
+Correct: 153 Incorrect: 91 Accuracy: 0.6270491803278688 PredNo: 244
+2201
+Correct: 530 Incorrect: 183 Accuracy: 0.7433380084151473 PredNo: 713
+2204
+Correct: 624 Incorrect: 88 Accuracy: 0.8764044943820225 PredNo: 712
+2206
+Correct: 613 Incorrect: 94 Accuracy: 0.867043847241867 PredNo: 707
+2207
+Correct: 518 Incorrect: 200 Accuracy: 0.7214484679665738 PredNo: 718
+2208
+Correct: 506 Incorrect: 73 Accuracy: 0.8739205526770294 PredNo: 579
+2227
+Correct: 627 Incorrect: 86 Accuracy: 0.879382889200561 PredNo: 713
+2228
+Correct: 198 Incorrect: 50 Accuracy: 0.7983870967741935 PredNo: 248
+2231
+Correct: 352 Incorrect: 114 Accuracy: 0.7553648068669528 PredNo: 466
+2236
+Correct: 11 Incorrect: 0 Accuracy: 1.0 PredNo: 11
+2239
+Correct: 72 Incorrect: 18 Accuracy: 0.8 PredNo: 90
+2302
+Correct: 538 Incorrect: 168 Accuracy: 0.7620396600566572 PredNo: 706
+2303
+Correct: 508 Incorrect: 185 Accuracy: 0.733044733044733 PredNo: 693
+2305
+Correct: 525 Incorrect: 186 Accuracy: 0.7383966244725738 PredNo: 711
+2308
+Correct: 587 Incorrect: 114 Accuracy: 0.8373751783166904 PredNo: 701
+2311
+Correct: 544 Incorrect: 175 Accuracy: 0.7566063977746871 PredNo: 719
+2312
+Correct: 535 Incorrect: 176 Accuracy: 0.7524613220815752 PredNo: 711
+2313
+Correct: 422 Incorrect: 289 Accuracy: 0.5935302390998594 PredNo: 711
+2314
+Correct: 580 Incorrect: 128 Accuracy: 0.8192090395480226 PredNo: 708
+2316
+Correct: 513 Incorrect: 191 Accuracy: 0.7286931818181818 PredNo: 704
+2317
+Correct: 569 Incorrect: 141 Accuracy: 0.8014084507042254 PredNo: 710
+2321
+Correct: 518 Incorrect: 191 Accuracy: 0.7306064880112835 PredNo: 709
+2323
+Correct: 652 Incorrect: 57 Accuracy: 0.919605077574048 PredNo: 709
+2324
+Correct: 608 Incorrect: 104 Accuracy: 0.8539325842696629 PredNo: 712
+2325
+Correct: 441 Incorrect: 275 Accuracy: 0.6159217877094972 PredNo: 716
+2327
+Correct: 478 Incorrect: 223 Accuracy: 0.68188302425107 PredNo: 701
+2328
+Correct: 602 Incorrect: 112 Accuracy: 0.8431372549019608 PredNo: 714
+2329
+Correct: 510 Incorrect: 196 Accuracy: 0.7223796033994334 PredNo: 706
+2330
+Correct: 509 Incorrect: 196 Accuracy: 0.7219858156028369 PredNo: 705
+2331
+Correct: 544 Incorrect: 161 Accuracy: 0.7716312056737589 PredNo: 705
+2332
+Correct: 661 Incorrect: 44 Accuracy: 0.9375886524822695 PredNo: 705
+2337
+Correct: 669 Incorrect: 44 Accuracy: 0.938288920056101 PredNo: 713
+2338
+Correct: 551 Incorrect: 130 Accuracy: 0.8091042584434655 PredNo: 681
+2340
+Correct: 493 Incorrect: 204 Accuracy: 0.7073170731707317 PredNo: 697
+2342
+Correct: 507 Incorrect: 204 Accuracy: 0.7130801687763713 PredNo: 711
+2344
+Correct: 452 Incorrect: 266 Accuracy: 0.6295264623955432 PredNo: 718
+2345
+Correct: 419 Incorrect: 285 Accuracy: 0.5951704545454546 PredNo: 704
+2347
+Correct: 618 Incorrect: 99 Accuracy: 0.8619246861924686 PredNo: 717
+2348
+Correct: 320 Incorrect: 226 Accuracy: 0.5860805860805861 PredNo: 546
+2349
+Correct: 579 Incorrect: 134 Accuracy: 0.8120617110799438 PredNo: 713
+2351
+Correct: 538 Incorrect: 181 Accuracy: 0.7482614742698191 PredNo: 719
+2352
+Correct: 488 Incorrect: 217 Accuracy: 0.6921985815602837 PredNo: 705
+2353
+Correct: 616 Incorrect: 100 Accuracy: 0.8603351955307262 PredNo: 716
+2354
+Correct: 496 Incorrect: 217 Accuracy: 0.6956521739130435 PredNo: 713
+2355
+Correct: 523 Incorrect: 194 Accuracy: 0.7294281729428173 PredNo: 717
+2356
+Correct: 531 Incorrect: 171 Accuracy: 0.7564102564102564 PredNo: 702
+2357
+Correct: 669 Incorrect: 43 Accuracy: 0.9396067415730337 PredNo: 712
+2358
+Correct: 486 Incorrect: 220 Accuracy: 0.6883852691218131 PredNo: 706
+2359
+Correct: 498 Incorrect: 187 Accuracy: 0.727007299270073 PredNo: 685
+2360
+Correct: 541 Incorrect: 180 Accuracy: 0.7503467406380028 PredNo: 721
+2362
+Correct: 575 Incorrect: 144 Accuracy: 0.799721835883171 PredNo: 719
+2363
+Correct: 635 Incorrect: 79 Accuracy: 0.8893557422969187 PredNo: 714
+2364
+Correct: 581 Incorrect: 120 Accuracy: 0.8288159771754636 PredNo: 701
+2365
+Correct: 553 Incorrect: 148 Accuracy: 0.7888730385164051 PredNo: 701
+2367
+Correct: 573 Incorrect: 132 Accuracy: 0.8127659574468085 PredNo: 705
+2368
+Correct: 530 Incorrect: 179 Accuracy: 0.7475317348377997 PredNo: 709
+2369
+Correct: 584 Incorrect: 128 Accuracy: 0.8202247191011236 PredNo: 712
+2371
+Correct: 565 Incorrect: 150 Accuracy: 0.7902097902097902 PredNo: 715
+2373
+Correct: 602 Incorrect: 101 Accuracy: 0.8563300142247511 PredNo: 703
+2374
+Correct: 630 Incorrect: 76 Accuracy: 0.8923512747875354 PredNo: 706
+2375
+Correct: 411 Incorrect: 289 Accuracy: 0.5871428571428572 PredNo: 700
+2376
+Correct: 619 Incorrect: 94 Accuracy: 0.8681626928471248 PredNo: 713
+2377
+Correct: 568 Incorrect: 142 Accuracy: 0.8 PredNo: 710
+2379
+Correct: 464 Incorrect: 251 Accuracy: 0.6489510489510489 PredNo: 715
+2380
+Correct: 535 Incorrect: 171 Accuracy: 0.7577903682719547 PredNo: 706
+2382
+Correct: 584 Incorrect: 130 Accuracy: 0.8179271708683473 PredNo: 714
+2383
+Correct: 304 Incorrect: 406 Accuracy: 0.428169014084507 PredNo: 710
+2385
+Correct: 553 Incorrect: 166 Accuracy: 0.7691237830319889 PredNo: 719
+2387
+Correct: 359 Incorrect: 349 Accuracy: 0.5070621468926554 PredNo: 708
+2388
+Correct: 549 Incorrect: 157 Accuracy: 0.7776203966005666 PredNo: 706
+2390
+Correct: 581 Incorrect: 136 Accuracy: 0.810320781032078 PredNo: 717
+2392
+Correct: 664 Incorrect: 53 Accuracy: 0.9260808926080892 PredNo: 717
+2393
+Correct: 600 Incorrect: 121 Accuracy: 0.8321775312066574 PredNo: 721
+2395
+Correct: 342 Incorrect: 367 Accuracy: 0.4823695345557123 PredNo: 709
+2397
+Correct: 568 Incorrect: 148 Accuracy: 0.7932960893854749 PredNo: 716
+2399
+Correct: 635 Incorrect: 66 Accuracy: 0.905848787446505 PredNo: 701
+2401
+Correct: 538 Incorrect: 169 Accuracy: 0.7609618104667609 PredNo: 707
+2402
+Correct: 502 Incorrect: 215 Accuracy: 0.700139470013947 PredNo: 717
+2404
+Correct: 458 Incorrect: 255 Accuracy: 0.6423562412342216 PredNo: 713
+2405
+Correct: 563 Incorrect: 152 Accuracy: 0.7874125874125875 PredNo: 715
+2406
+Correct: 496 Incorrect: 221 Accuracy: 0.691771269177127 PredNo: 717
+2408
+Correct: 394 Incorrect: 319 Accuracy: 0.5525946704067322 PredNo: 713
+2409
+Correct: 540 Incorrect: 174 Accuracy: 0.7563025210084033 PredNo: 714
+2412
+Correct: 477 Incorrect: 196 Accuracy: 0.7087667161961367 PredNo: 673
+2413
+Correct: 511 Incorrect: 201 Accuracy: 0.7176966292134831 PredNo: 712
+2414
+Correct: 579 Incorrect: 102 Accuracy: 0.8502202643171806 PredNo: 681
+2415
+Correct: 463 Incorrect: 241 Accuracy: 0.6576704545454546 PredNo: 704
+2417
+Correct: 703 Incorrect: 7 Accuracy: 0.9901408450704225 PredNo: 710
+2419
+Correct: 590 Incorrect: 120 Accuracy: 0.8309859154929577 PredNo: 710
+2420
+Correct: 609 Incorrect: 109 Accuracy: 0.8481894150417827 PredNo: 718
+2421
+Correct: 472 Incorrect: 226 Accuracy: 0.6762177650429799 PredNo: 698
+2423
+Correct: 549 Incorrect: 141 Accuracy: 0.7956521739130434 PredNo: 690
+2424
+Correct: 531 Incorrect: 162 Accuracy: 0.7662337662337663 PredNo: 693
+2425
+Correct: 494 Incorrect: 214 Accuracy: 0.6977401129943502 PredNo: 708
+2426
+Correct: 446 Incorrect: 265 Accuracy: 0.6272855133614628 PredNo: 711
+2427
+Correct: 615 Incorrect: 99 Accuracy: 0.8613445378151261 PredNo: 714
+2428
+Correct: 489 Incorrect: 230 Accuracy: 0.6801112656467315 PredNo: 719
+2429
+Correct: 400 Incorrect: 79 Accuracy: 0.8350730688935282 PredNo: 479
+2430
+Correct: 620 Incorrect: 86 Accuracy: 0.8781869688385269 PredNo: 706
+2431
+Correct: 554 Incorrect: 159 Accuracy: 0.7769985974754559 PredNo: 713
+2433
+Correct: 634 Incorrect: 74 Accuracy: 0.8954802259887006 PredNo: 708
+2434
+Correct: 472 Incorrect: 242 Accuracy: 0.6610644257703081 PredNo: 714
+2436
+Correct: 607 Incorrect: 104 Accuracy: 0.8537271448663853 PredNo: 711
+2437
+Something went wrong HERE!!!!!!!!
+2438
+Correct: 594 Incorrect: 98 Accuracy: 0.8583815028901735 PredNo: 692
+2439
+Correct: 683 Incorrect: 33 Accuracy: 0.9539106145251397 PredNo: 716
+2440
+Correct: 466 Incorrect: 234 Accuracy: 0.6657142857142857 PredNo: 700
+2441
+Correct: 472 Incorrect: 238 Accuracy: 0.6647887323943662 PredNo: 710
+2442
+Correct: 544 Incorrect: 166 Accuracy: 0.7661971830985915 PredNo: 710
+2443
+Correct: 507 Incorrect: 198 Accuracy: 0.7191489361702128 PredNo: 705
+2444
+Correct: 473 Incorrect: 237 Accuracy: 0.6661971830985915 PredNo: 710
+2448
+Correct: 590 Incorrect: 129 Accuracy: 0.8205841446453408 PredNo: 719
+2449
+Correct: 480 Incorrect: 228 Accuracy: 0.6779661016949152 PredNo: 708
+2450
+Correct: 554 Incorrect: 159 Accuracy: 0.7769985974754559 PredNo: 713
+2451
+Correct: 430 Incorrect: 280 Accuracy: 0.6056338028169014 PredNo: 710
+2453
+Correct: 513 Incorrect: 183 Accuracy: 0.7370689655172413 PredNo: 696
+2454
+Correct: 605 Incorrect: 108 Accuracy: 0.8485273492286115 PredNo: 713
+2455
+Correct: 521 Incorrect: 195 Accuracy: 0.7276536312849162 PredNo: 716
+2456
+Correct: 512 Incorrect: 199 Accuracy: 0.720112517580872 PredNo: 711
+2457
+Correct: 583 Incorrect: 127 Accuracy: 0.8211267605633803 PredNo: 710
+2458
+Correct: 501 Incorrect: 222 Accuracy: 0.6929460580912863 PredNo: 723
+2459
+Correct: 420 Incorrect: 288 Accuracy: 0.5932203389830508 PredNo: 708
+2460
+Correct: 594 Incorrect: 108 Accuracy: 0.8461538461538461 PredNo: 702
+2461
+Correct: 564 Incorrect: 140 Accuracy: 0.8011363636363636 PredNo: 704
+2462
+Correct: 528 Incorrect: 187 Accuracy: 0.7384615384615385 PredNo: 715
+2464
+Correct: 570 Incorrect: 139 Accuracy: 0.8039492242595204 PredNo: 709
+2465
+Correct: 450 Incorrect: 256 Accuracy: 0.6373937677053825 PredNo: 706
+2466
+Correct: 458 Incorrect: 223 Accuracy: 0.6725403817914831 PredNo: 681
+2467
+Correct: 601 Incorrect: 103 Accuracy: 0.8536931818181818 PredNo: 704
+2468
+Correct: 504 Incorrect: 181 Accuracy: 0.7357664233576642 PredNo: 685
+2471
+Correct: 666 Incorrect: 37 Accuracy: 0.9473684210526315 PredNo: 703
+2472
+Correct: 417 Incorrect: 295 Accuracy: 0.5856741573033708 PredNo: 712
+2474
+Correct: 422 Incorrect: 295 Accuracy: 0.5885634588563459 PredNo: 717
+2475
+Correct: 574 Incorrect: 120 Accuracy: 0.8270893371757925 PredNo: 694
+2476
+Correct: 466 Incorrect: 238 Accuracy: 0.6619318181818182 PredNo: 704
+2477
+Correct: 474 Incorrect: 224 Accuracy: 0.6790830945558739 PredNo: 698
+2478
+Correct: 534 Incorrect: 171 Accuracy: 0.7574468085106383 PredNo: 705
+2480
+Correct: 600 Incorrect: 102 Accuracy: 0.8547008547008547 PredNo: 702
+2481
+Correct: 510 Incorrect: 199 Accuracy: 0.7193229901269393 PredNo: 709
+2482
+Correct: 556 Incorrect: 148 Accuracy: 0.7897727272727273 PredNo: 704
+2483
+Correct: 427 Incorrect: 276 Accuracy: 0.6073968705547653 PredNo: 703
+2484
+Correct: 454 Incorrect: 255 Accuracy: 0.6403385049365303 PredNo: 709
+2485
+Correct: 501 Incorrect: 216 Accuracy: 0.698744769874477 PredNo: 717
+2486
+Correct: 634 Incorrect: 80 Accuracy: 0.8879551820728291 PredNo: 714
+2488
+Correct: 470 Incorrect: 234 Accuracy: 0.6676136363636364 PredNo: 704
+2489
+Correct: 542 Incorrect: 164 Accuracy: 0.7677053824362606 PredNo: 706
+2491
+Correct: 435 Incorrect: 141 Accuracy: 0.7552083333333334 PredNo: 576
+2492
+Correct: 408 Incorrect: 304 Accuracy: 0.5730337078651685 PredNo: 712
+2493
+Correct: 487 Incorrect: 220 Accuracy: 0.6888260254596889 PredNo: 707
+2495
+Correct: 563 Incorrect: 149 Accuracy: 0.7907303370786517 PredNo: 712
+2496
+Correct: 362 Incorrect: 262 Accuracy: 0.5801282051282052 PredNo: 624
+2497
+Correct: 505 Incorrect: 208 Accuracy: 0.7082748948106592 PredNo: 713
+2498
+Correct: 665 Incorrect: 54 Accuracy: 0.9248956884561892 PredNo: 719
+2499
+Correct: 557 Incorrect: 159 Accuracy: 0.7779329608938548 PredNo: 716
+2501
+Correct: 535 Incorrect: 167 Accuracy: 0.7621082621082621 PredNo: 702
+2504
+Correct: 577 Incorrect: 115 Accuracy: 0.8338150289017341 PredNo: 692
+2505
+Correct: 524 Incorrect: 183 Accuracy: 0.7411598302687411 PredNo: 707
+2506
+Correct: 375 Incorrect: 320 Accuracy: 0.539568345323741 PredNo: 695
+2509
+Correct: 549 Incorrect: 150 Accuracy: 0.7854077253218884 PredNo: 699
+2511
+Correct: 594 Incorrect: 107 Accuracy: 0.8473609129814551 PredNo: 701
+2514
+Correct: 492 Incorrect: 198 Accuracy: 0.7130434782608696 PredNo: 690
+2515
+Correct: 622 Incorrect: 95 Accuracy: 0.8675034867503487 PredNo: 717
+2516
+Correct: 591 Incorrect: 119 Accuracy: 0.8323943661971831 PredNo: 710
+2520
+Correct: 661 Incorrect: 56 Accuracy: 0.9218967921896792 PredNo: 717
+2524
+Correct: 597 Incorrect: 113 Accuracy: 0.8408450704225352 PredNo: 710
+2527
+Correct: 454 Incorrect: 250 Accuracy: 0.6448863636363636 PredNo: 704
+2528
+Correct: 470 Incorrect: 182 Accuracy: 0.7208588957055214 PredNo: 652
+2530
+Correct: 495 Incorrect: 204 Accuracy: 0.7081545064377682 PredNo: 699
+2534
+Correct: 557 Incorrect: 146 Accuracy: 0.7923186344238976 PredNo: 703
+2535
+Correct: 600 Incorrect: 96 Accuracy: 0.8620689655172413 PredNo: 696
+2536
+Correct: 586 Incorrect: 124 Accuracy: 0.8253521126760563 PredNo: 710
+2537
+Correct: 444 Incorrect: 200 Accuracy: 0.6894409937888198 PredNo: 644
+2538
+Correct: 584 Incorrect: 124 Accuracy: 0.8248587570621468 PredNo: 708
+2539
+Correct: 311 Incorrect: 288 Accuracy: 0.5191986644407346 PredNo: 599
+2540
+Correct: 314 Incorrect: 141 Accuracy: 0.6901098901098901 PredNo: 455
+2542
+Correct: 564 Incorrect: 148 Accuracy: 0.7921348314606742 PredNo: 712
+2543
+Correct: 464 Incorrect: 237 Accuracy: 0.6619115549215406 PredNo: 701
+2545
+Correct: 615 Incorrect: 102 Accuracy: 0.8577405857740585 PredNo: 717
+2546
+Correct: 477 Incorrect: 212 Accuracy: 0.6923076923076923 PredNo: 689
+2547
+Correct: 647 Incorrect: 67 Accuracy: 0.9061624649859944 PredNo: 714
+2548
+Correct: 676 Incorrect: 40 Accuracy: 0.9441340782122905 PredNo: 716
+2597
+Correct: 370 Incorrect: 132 Accuracy: 0.7370517928286853 PredNo: 502
+2601
+Correct: 593 Incorrect: 123 Accuracy: 0.8282122905027933 PredNo: 716
+2603
+Correct: 570 Incorrect: 133 Accuracy: 0.8108108108108109 PredNo: 703
+2605
+Correct: 564 Incorrect: 144 Accuracy: 0.7966101694915254 PredNo: 708
+2606
+Correct: 636 Incorrect: 80 Accuracy: 0.888268156424581 PredNo: 716
+2607
+Correct: 615 Incorrect: 81 Accuracy: 0.8836206896551724 PredNo: 696
+2608
+Correct: 629 Incorrect: 79 Accuracy: 0.8884180790960452 PredNo: 708
+2609
+Correct: 604 Incorrect: 97 Accuracy: 0.8616262482168331 PredNo: 701
+2610
+Correct: 611 Incorrect: 84 Accuracy: 0.879136690647482 PredNo: 695
+2611
+Correct: 668 Incorrect: 22 Accuracy: 0.9681159420289855 PredNo: 690
+2612
+Correct: 667 Incorrect: 44 Accuracy: 0.9381153305203939 PredNo: 711
+2613
+Correct: 556 Incorrect: 143 Accuracy: 0.7954220314735336 PredNo: 699
+2614
+Correct: 588 Incorrect: 122 Accuracy: 0.828169014084507 PredNo: 710
+2615
+Correct: 487 Incorrect: 217 Accuracy: 0.6917613636363636 PredNo: 704
+2616
+Correct: 578 Incorrect: 101 Accuracy: 0.8512518409425626 PredNo: 679
+2617
+Correct: 661 Incorrect: 40 Accuracy: 0.9429386590584878 PredNo: 701
+2618
+Correct: 535 Incorrect: 171 Accuracy: 0.7577903682719547 PredNo: 706
+2633
+Correct: 16 Incorrect: 21 Accuracy: 0.43243243243243246 PredNo: 37
+2634
+Correct: 145 Incorrect: 47 Accuracy: 0.7552083333333334 PredNo: 192
+2636
+Correct: 26 Incorrect: 1 Accuracy: 0.9629629629629629 PredNo: 27
+2637
+Correct: 372 Incorrect: 82 Accuracy: 0.8193832599118943 PredNo: 454
+2642
+Correct: 209 Incorrect: 32 Accuracy: 0.8672199170124482 PredNo: 241
+2701
+Correct: 532 Incorrect: 131 Accuracy: 0.8024132730015083 PredNo: 663
+2702
+Correct: 521 Incorrect: 162 Accuracy: 0.7628111273792094 PredNo: 683
+2704
+Correct: 683 Incorrect: 19 Accuracy: 0.9729344729344729 PredNo: 702
+2705
+Correct: 570 Incorrect: 133 Accuracy: 0.8108108108108109 PredNo: 703
+2706
+Correct: 534 Incorrect: 148 Accuracy: 0.782991202346041 PredNo: 682
+2707
+Correct: 585 Incorrect: 121 Accuracy: 0.8286118980169972 PredNo: 706
+2712
+Correct: 134 Incorrect: 99 Accuracy: 0.575107296137339 PredNo: 233
+2722
+Correct: 274 Incorrect: 87 Accuracy: 0.7590027700831025 PredNo: 361
+2723
+Correct: 278 Incorrect: 183 Accuracy: 0.6030368763557483 PredNo: 461
+2727
+Correct: 361 Incorrect: 10 Accuracy: 0.9730458221024259 PredNo: 371
+2731
+Correct: 205 Incorrect: 53 Accuracy: 0.7945736434108527 PredNo: 258
+2739
+Correct: 35 Incorrect: 34 Accuracy: 0.5072463768115942 PredNo: 69
+2748
+Correct: 13 Incorrect: 19 Accuracy: 0.40625 PredNo: 32
+2801
+Correct: 373 Incorrect: 323 Accuracy: 0.5359195402298851 PredNo: 696
+2809
+Correct: 515 Incorrect: 192 Accuracy: 0.7284299858557284 PredNo: 707
+2812
+Correct: 489 Incorrect: 188 Accuracy: 0.7223042836041359 PredNo: 677
+2816
+Correct: 506 Incorrect: 191 Accuracy: 0.7259684361549498 PredNo: 697
+2820
+Correct: 427 Incorrect: 200 Accuracy: 0.6810207336523126 PredNo: 627
+2823
+Correct: 478 Incorrect: 240 Accuracy: 0.6657381615598886 PredNo: 718
+2832
+Correct: 579 Incorrect: 108 Accuracy: 0.8427947598253275 PredNo: 687
+2834
+Correct: 525 Incorrect: 190 Accuracy: 0.7342657342657343 PredNo: 715
+2836
+Correct: 460 Incorrect: 244 Accuracy: 0.6534090909090909 PredNo: 704
+2838
+Correct: 519 Incorrect: 152 Accuracy: 0.7734724292101341 PredNo: 671
+2841
+Correct: 497 Incorrect: 181 Accuracy: 0.7330383480825958 PredNo: 678
+2845
+Correct: 578 Incorrect: 102 Accuracy: 0.85 PredNo: 680
+2849
+Correct: 589 Incorrect: 110 Accuracy: 0.8426323319027181 PredNo: 699
+2850
+Correct: 500 Incorrect: 193 Accuracy: 0.7215007215007215 PredNo: 693
+2851
+Correct: 500 Incorrect: 172 Accuracy: 0.7440476190476191 PredNo: 672
+2852
+Correct: 559 Incorrect: 112 Accuracy: 0.8330849478390462 PredNo: 671
+2855
+Correct: 547 Incorrect: 150 Accuracy: 0.7847919655667145 PredNo: 697
+2856
+Correct: 501 Incorrect: 199 Accuracy: 0.7157142857142857 PredNo: 700
+2867
+Correct: 267 Incorrect: 38 Accuracy: 0.8754098360655738 PredNo: 305
+2880
+Correct: 558 Incorrect: 137 Accuracy: 0.8028776978417266 PredNo: 695
+2881
+Correct: 533 Incorrect: 184 Accuracy: 0.7433751743375174 PredNo: 717
+2882
+Correct: 527 Incorrect: 192 Accuracy: 0.7329624478442281 PredNo: 719
+2883
+Correct: 515 Incorrect: 191 Accuracy: 0.7294617563739377 PredNo: 706
+2884
+Correct: 482 Incorrect: 215 Accuracy: 0.6915351506456241 PredNo: 697
+2885
+Correct: 604 Incorrect: 95 Accuracy: 0.8640915593705293 PredNo: 699
+2886
+Correct: 527 Incorrect: 180 Accuracy: 0.7454031117397454 PredNo: 707
+2887
+Correct: 537 Incorrect: 153 Accuracy: 0.7782608695652173 PredNo: 690
+2888
+Correct: 469 Incorrect: 236 Accuracy: 0.6652482269503546 PredNo: 705
+2889
+Correct: 523 Incorrect: 169 Accuracy: 0.7557803468208093 PredNo: 692
+2890
+Correct: 566 Incorrect: 131 Accuracy: 0.812051649928264 PredNo: 697
+2891
+Correct: 561 Incorrect: 145 Accuracy: 0.7946175637393768 PredNo: 706
+2892
+Correct: 435 Incorrect: 267 Accuracy: 0.6196581196581197 PredNo: 702
+2901
+Correct: 526 Incorrect: 173 Accuracy: 0.7525035765379113 PredNo: 699
+2903
+Correct: 570 Incorrect: 137 Accuracy: 0.8062234794908062 PredNo: 707
+2904
+Correct: 601 Incorrect: 84 Accuracy: 0.8773722627737226 PredNo: 685
+2905
+Correct: 645 Incorrect: 65 Accuracy: 0.9084507042253521 PredNo: 710
+2906
+Correct: 511 Incorrect: 156 Accuracy: 0.7661169415292354 PredNo: 667
+2908
+Correct: 609 Incorrect: 76 Accuracy: 0.8890510948905109 PredNo: 685
+2910
+Correct: 512 Incorrect: 192 Accuracy: 0.7272727272727273 PredNo: 704
+2911
+Correct: 649 Incorrect: 62 Accuracy: 0.9127988748241913 PredNo: 711
+2912
+Correct: 447 Incorrect: 255 Accuracy: 0.6367521367521367 PredNo: 702
+2913
+Correct: 586 Incorrect: 117 Accuracy: 0.833570412517781 PredNo: 703
+2915
+Correct: 616 Incorrect: 100 Accuracy: 0.8603351955307262 PredNo: 716
+2923
+Correct: 301 Incorrect: 9 Accuracy: 0.9709677419354839 PredNo: 310
+2929
+Correct: 202 Incorrect: 34 Accuracy: 0.8559322033898306 PredNo: 236
+2936
+Correct: 31 Incorrect: 14 Accuracy: 0.6888888888888889 PredNo: 45
+3002
+Correct: 500 Incorrect: 188 Accuracy: 0.7267441860465116 PredNo: 688
+3003
+Correct: 368 Incorrect: 347 Accuracy: 0.5146853146853146 PredNo: 715
+3004
+Correct: 609 Incorrect: 66 Accuracy: 0.9022222222222223 PredNo: 675
+3005
+Correct: 511 Incorrect: 199 Accuracy: 0.719718309859155 PredNo: 710
+3006
+Correct: 595 Incorrect: 122 Accuracy: 0.8298465829846583 PredNo: 717
+3008
+Correct: 606 Incorrect: 114 Accuracy: 0.8416666666666667 PredNo: 720
+3010
+Correct: 567 Incorrect: 142 Accuracy: 0.7997179125528914 PredNo: 709
+3011
+Correct: 608 Incorrect: 107 Accuracy: 0.8503496503496504 PredNo: 715
+3013
+Correct: 580 Incorrect: 131 Accuracy: 0.8157524613220816 PredNo: 711
+3014
+Correct: 636 Incorrect: 80 Accuracy: 0.888268156424581 PredNo: 716
+3015
+Correct: 612 Incorrect: 96 Accuracy: 0.864406779661017 PredNo: 708
+3016
+Correct: 502 Incorrect: 214 Accuracy: 0.7011173184357542 PredNo: 716
+3017
+Correct: 496 Incorrect: 220 Accuracy: 0.6927374301675978 PredNo: 716
+3018
+Correct: 424 Incorrect: 246 Accuracy: 0.6328358208955224 PredNo: 670
+3019
+Correct: 542 Incorrect: 179 Accuracy: 0.7517337031900139 PredNo: 721
+3021
+Correct: 473 Incorrect: 196 Accuracy: 0.7070254110612855 PredNo: 669
+3022
+Correct: 508 Incorrect: 209 Accuracy: 0.708507670850767 PredNo: 717
+3023
+Correct: 364 Incorrect: 352 Accuracy: 0.5083798882681564 PredNo: 716
+3024
+Correct: 590 Incorrect: 114 Accuracy: 0.8380681818181818 PredNo: 704
+3025
+Correct: 484 Incorrect: 215 Accuracy: 0.6924177396280401 PredNo: 699
+3026
+Correct: 524 Incorrect: 180 Accuracy: 0.7443181818181818 PredNo: 704
+3027
+Correct: 501 Incorrect: 206 Accuracy: 0.7086280056577087 PredNo: 707
+3028
+Correct: 592 Incorrect: 89 Accuracy: 0.869309838472834 PredNo: 681
+3029
+Correct: 512 Incorrect: 198 Accuracy: 0.7211267605633803 PredNo: 710
+3030
+Correct: 533 Incorrect: 183 Accuracy: 0.744413407821229 PredNo: 716
+3031
+Correct: 620 Incorrect: 93 Accuracy: 0.8695652173913043 PredNo: 713
+3032
+Correct: 457 Incorrect: 254 Accuracy: 0.6427566807313643 PredNo: 711
+3033
+Correct: 648 Incorrect: 34 Accuracy: 0.9501466275659824 PredNo: 682
+3034
+Correct: 441 Incorrect: 272 Accuracy: 0.6185133239831697 PredNo: 713
+3035
+Correct: 491 Incorrect: 228 Accuracy: 0.6828929068150209 PredNo: 719
+3036
+Correct: 482 Incorrect: 233 Accuracy: 0.6741258741258741 PredNo: 715
+3037
+Correct: 571 Incorrect: 145 Accuracy: 0.797486033519553 PredNo: 716
+3038
+Correct: 460 Incorrect: 255 Accuracy: 0.6433566433566433 PredNo: 715
+3040
+Correct: 454 Incorrect: 242 Accuracy: 0.6522988505747126 PredNo: 696
+3041
+Correct: 617 Incorrect: 99 Accuracy: 0.861731843575419 PredNo: 716
+3042
+Correct: 499 Incorrect: 219 Accuracy: 0.6949860724233984 PredNo: 718
+3043
+Correct: 675 Incorrect: 43 Accuracy: 0.9401114206128134 PredNo: 718
+3044
+Correct: 590 Incorrect: 124 Accuracy: 0.8263305322128851 PredNo: 714
+3045
+Correct: 464 Incorrect: 219 Accuracy: 0.6793557833089312 PredNo: 683
+3046
+Correct: 516 Incorrect: 191 Accuracy: 0.7298444130127298 PredNo: 707
+3047
+Correct: 525 Incorrect: 180 Accuracy: 0.7446808510638298 PredNo: 705
+3048
+Correct: 473 Incorrect: 228 Accuracy: 0.6747503566333809 PredNo: 701
+3049
+Correct: 620 Incorrect: 91 Accuracy: 0.8720112517580872 PredNo: 711
+3050
+Correct: 397 Incorrect: 316 Accuracy: 0.5568022440392707 PredNo: 713
+3051
+Correct: 499 Incorrect: 214 Accuracy: 0.699859747545582 PredNo: 713
+3052
+Correct: 646 Incorrect: 50 Accuracy: 0.9281609195402298 PredNo: 696
+3054
+Correct: 419 Incorrect: 278 Accuracy: 0.6011477761836442 PredNo: 697
+3055
+Correct: 533 Incorrect: 165 Accuracy: 0.7636103151862464 PredNo: 698
+3056
+Correct: 546 Incorrect: 103 Accuracy: 0.8412942989214176 PredNo: 649
+3057
+Correct: 566 Incorrect: 151 Accuracy: 0.7894002789400278 PredNo: 717
+3058
+Correct: 580 Incorrect: 120 Accuracy: 0.8285714285714286 PredNo: 700
+3059
+Correct: 565 Incorrect: 152 Accuracy: 0.7880055788005579 PredNo: 717
+3060
+Correct: 605 Incorrect: 110 Accuracy: 0.8461538461538461 PredNo: 715
+3062
+Correct: 630 Incorrect: 84 Accuracy: 0.8823529411764706 PredNo: 714
+3090
+Correct: 567 Incorrect: 136 Accuracy: 0.8065433854907539 PredNo: 703
+3094
+Correct: 504 Incorrect: 203 Accuracy: 0.7128712871287128 PredNo: 707
+3130
+Correct: 466 Incorrect: 222 Accuracy: 0.6773255813953488 PredNo: 688
+3149
+Correct: 322 Incorrect: 70 Accuracy: 0.8214285714285714 PredNo: 392
+3164
+Correct: 514 Incorrect: 0 Accuracy: 1.0 PredNo: 514
+3167
+Correct: 223 Incorrect: 31 Accuracy: 0.8779527559055118 PredNo: 254
+3189
+Correct: 543 Incorrect: 171 Accuracy: 0.7605042016806722 PredNo: 714
+3209
+Correct: 519 Incorrect: 192 Accuracy: 0.729957805907173 PredNo: 711
+3229
+Correct: 362 Incorrect: 162 Accuracy: 0.6908396946564885 PredNo: 524
+3231
+Correct: 599 Incorrect: 116 Accuracy: 0.8377622377622378 PredNo: 715
+3257
+Correct: 344 Incorrect: 99 Accuracy: 0.7765237020316027 PredNo: 443
+3266
+Correct: 145 Incorrect: 12 Accuracy: 0.9235668789808917 PredNo: 157
+3296
+Correct: 558 Incorrect: 152 Accuracy: 0.7859154929577464 PredNo: 710
+3305
+Correct: 547 Incorrect: 89 Accuracy: 0.860062893081761 PredNo: 636
+3308
+Correct: 486 Incorrect: 173 Accuracy: 0.7374810318664643 PredNo: 659
+3311
+Correct: 596 Incorrect: 121 Accuracy: 0.8312412831241283 PredNo: 717
+3312
+Correct: 438 Incorrect: 7 Accuracy: 0.9842696629213483 PredNo: 445
+3315
+Correct: 375 Incorrect: 330 Accuracy: 0.5319148936170213 PredNo: 705
+3321
+Correct: 77 Incorrect: 21 Accuracy: 0.7857142857142857 PredNo: 98
+3338
+Correct: 218 Incorrect: 27 Accuracy: 0.889795918367347 PredNo: 245
+3346
+Correct: 19 Incorrect: 8 Accuracy: 0.7037037037037037 PredNo: 27
+3356
+Correct: 642 Incorrect: 55 Accuracy: 0.921090387374462 PredNo: 697
+3376
+Correct: 556 Incorrect: 160 Accuracy: 0.776536312849162 PredNo: 716
+3380
+Correct: 581 Incorrect: 129 Accuracy: 0.8183098591549296 PredNo: 710
+3383
+Correct: 553 Incorrect: 166 Accuracy: 0.7691237830319889 PredNo: 719
+3406
+Correct: 556 Incorrect: 167 Accuracy: 0.7690179806362379 PredNo: 723
+3413
+Correct: 62 Incorrect: 68 Accuracy: 0.47692307692307695 PredNo: 130
+3416
+Correct: 111 Incorrect: 51 Accuracy: 0.6851851851851852 PredNo: 162
+3419
+Correct: 554 Incorrect: 154 Accuracy: 0.7824858757062146 PredNo: 708
+3432
+Correct: 320 Incorrect: 132 Accuracy: 0.7079646017699115 PredNo: 452
+3437
+Correct: 150 Incorrect: 56 Accuracy: 0.7281553398058253 PredNo: 206
+3443
+Correct: 552 Incorrect: 159 Accuracy: 0.7763713080168776 PredNo: 711
+3450
+Correct: 512 Incorrect: 200 Accuracy: 0.7191011235955056 PredNo: 712
+3454
+Correct: 295 Incorrect: 124 Accuracy: 0.7040572792362768 PredNo: 419
+3481
+Correct: 519 Incorrect: 198 Accuracy: 0.7238493723849372 PredNo: 717
+3494
+Correct: 551 Incorrect: 161 Accuracy: 0.773876404494382 PredNo: 712
+3501
+Correct: 399 Incorrect: 297 Accuracy: 0.5732758620689655 PredNo: 696
+3504
+Correct: 617 Incorrect: 101 Accuracy: 0.8593314763231198 PredNo: 718
+3514
+Correct: 624 Incorrect: 93 Accuracy: 0.8702928870292888 PredNo: 717
+3515
+Correct: 623 Incorrect: 75 Accuracy: 0.8925501432664756 PredNo: 698
+3518
+Correct: 549 Incorrect: 163 Accuracy: 0.7710674157303371 PredNo: 712
+3519
+Correct: 554 Incorrect: 117 Accuracy: 0.8256333830104322 PredNo: 671
+3528
+Correct: 44 Incorrect: 21 Accuracy: 0.676923076923077 PredNo: 65
+3532
+Correct: 458 Incorrect: 263 Accuracy: 0.6352288488210819 PredNo: 721
+3533
+Correct: 536 Incorrect: 176 Accuracy: 0.7528089887640449 PredNo: 712
+3535
+Correct: 556 Incorrect: 107 Accuracy: 0.8386123680241327 PredNo: 663
+3536
+Correct: 527 Incorrect: 175 Accuracy: 0.7507122507122507 PredNo: 702
+3545
+Correct: 647 Incorrect: 69 Accuracy: 0.9036312849162011 PredNo: 716
+3550
+Correct: 319 Incorrect: 133 Accuracy: 0.7057522123893806 PredNo: 452
+3557
+Correct: 615 Incorrect: 49 Accuracy: 0.9262048192771084 PredNo: 664
+3559
+Correct: 395 Incorrect: 195 Accuracy: 0.6694915254237288 PredNo: 590
+3561
+Correct: 552 Incorrect: 55 Accuracy: 0.9093904448105437 PredNo: 607
+3576
+Correct: 438 Incorrect: 163 Accuracy: 0.7287853577371048 PredNo: 601
+3579
+Correct: 500 Incorrect: 27 Accuracy: 0.9487666034155597 PredNo: 527
+3583
+Correct: 195 Incorrect: 105 Accuracy: 0.65 PredNo: 300
+3588
+Correct: 521 Incorrect: 33 Accuracy: 0.9404332129963899 PredNo: 554
+3591
+Correct: 346 Incorrect: 121 Accuracy: 0.7408993576017131 PredNo: 467
+3593
+Correct: 521 Incorrect: 64 Accuracy: 0.8905982905982905 PredNo: 585
+3596
+Correct: 431 Incorrect: 160 Accuracy: 0.7292724196277496 PredNo: 591
+3605
+Correct: 491 Incorrect: 94 Accuracy: 0.8393162393162393 PredNo: 585
+3607
+Correct: 431 Incorrect: 111 Accuracy: 0.7952029520295203 PredNo: 542
+3617
+Correct: 380 Incorrect: 142 Accuracy: 0.7279693486590039 PredNo: 522
+3622
+Correct: 504 Incorrect: 82 Accuracy: 0.8600682593856656 PredNo: 586
+3645
+Correct: 316 Incorrect: 88 Accuracy: 0.7821782178217822 PredNo: 404
+3653
+Correct: 421 Incorrect: 117 Accuracy: 0.7825278810408922 PredNo: 538
+3661
+Correct: 109 Incorrect: 73 Accuracy: 0.5989010989010989 PredNo: 182
+3665
+Correct: 254 Incorrect: 180 Accuracy: 0.5852534562211982 PredNo: 434
+3669
+Correct: 315 Incorrect: 89 Accuracy: 0.7797029702970297 PredNo: 404
+3673
+Correct: 461 Incorrect: 12 Accuracy: 0.9746300211416491 PredNo: 473
+3679
+Correct: 256 Incorrect: 146 Accuracy: 0.6368159203980099 PredNo: 402
+3682
+Correct: 206 Incorrect: 58 Accuracy: 0.7803030303030303 PredNo: 264
+3686
+Correct: 412 Incorrect: 75 Accuracy: 0.8459958932238193 PredNo: 487
+3694
+Correct: 300 Incorrect: 129 Accuracy: 0.6993006993006993 PredNo: 429
+3698
+Correct: 323 Incorrect: 81 Accuracy: 0.7995049504950495 PredNo: 404
+3701
+Correct: 437 Incorrect: 183 Accuracy: 0.7048387096774194 PredNo: 620
+3702
+Correct: 528 Incorrect: 191 Accuracy: 0.7343532684283728 PredNo: 719
+3703
+Correct: 403 Incorrect: 56 Accuracy: 0.8779956427015251 PredNo: 459
+3704
+Correct: 372 Incorrect: 103 Accuracy: 0.783157894736842 PredNo: 475
+3705
+Correct: 409 Incorrect: 43 Accuracy: 0.9048672566371682 PredNo: 452
+3706
+Correct: 148 Incorrect: 114 Accuracy: 0.5648854961832062 PredNo: 262
+3708
+Correct: 45 Incorrect: 5 Accuracy: 0.9 PredNo: 50
+4104
+Correct: 565 Incorrect: 146 Accuracy: 0.7946554149085795 PredNo: 711
+4106
+Correct: 450 Incorrect: 266 Accuracy: 0.6284916201117319 PredNo: 716
+4108
+Correct: 498 Incorrect: 142 Accuracy: 0.778125 PredNo: 640
+4119
+Correct: 466 Incorrect: 251 Accuracy: 0.6499302649930265 PredNo: 717
+4133
+Correct: 451 Incorrect: 79 Accuracy: 0.8509433962264151 PredNo: 530
+4137
+Correct: 208 Incorrect: 39 Accuracy: 0.8421052631578947 PredNo: 247
+4141
+Correct: 241 Incorrect: 124 Accuracy: 0.6602739726027397 PredNo: 365
+4142
+Correct: 249 Incorrect: 113 Accuracy: 0.6878453038674033 PredNo: 362
+4144
+Correct: 364 Incorrect: 36 Accuracy: 0.91 PredNo: 400
+4164
+Correct: 254 Incorrect: 67 Accuracy: 0.7912772585669782 PredNo: 321
+4190
+Correct: 99 Incorrect: 12 Accuracy: 0.8918918918918919 PredNo: 111
+4306
+Correct: 645 Incorrect: 47 Accuracy: 0.9320809248554913 PredNo: 692
+4414
+Correct: 631 Incorrect: 76 Accuracy: 0.8925035360678925 PredNo: 707
+4426
+Correct: 291 Incorrect: 97 Accuracy: 0.75 PredNo: 388
+4438
+Correct: 16 Incorrect: 24 Accuracy: 0.4 PredNo: 40
+4526
+Correct: 508 Incorrect: 201 Accuracy: 0.7165021156558533 PredNo: 709
+4532
+Correct: 530 Incorrect: 182 Accuracy: 0.7443820224719101 PredNo: 712
+4536
+Correct: 236 Incorrect: 12 Accuracy: 0.9516129032258065 PredNo: 248
+4545
+Correct: 91 Incorrect: 5 Accuracy: 0.9479166666666666 PredNo: 96
+4551
+Correct: 106 Incorrect: 19 Accuracy: 0.848 PredNo: 125
+4552
+Correct: 46 Incorrect: 10 Accuracy: 0.8214285714285714 PredNo: 56
+4555
+Correct: 72 Incorrect: 36 Accuracy: 0.6666666666666666 PredNo: 108
+4557
+Correct: 61 Incorrect: 51 Accuracy: 0.5446428571428571 PredNo: 112
+4720
+Correct: 105 Incorrect: 17 Accuracy: 0.860655737704918 PredNo: 122
+4722
+Correct: 177 Incorrect: 157 Accuracy: 0.5299401197604791 PredNo: 334
+4725
+Correct: 672 Incorrect: 42 Accuracy: 0.9411764705882353 PredNo: 714
+4737
+Correct: 304 Incorrect: 151 Accuracy: 0.6681318681318681 PredNo: 455
+4746
+Correct: 293 Incorrect: 153 Accuracy: 0.6569506726457399 PredNo: 446
+4755
+Correct: 181 Incorrect: 60 Accuracy: 0.7510373443983402 PredNo: 241
+4763
+Correct: 68 Incorrect: 36 Accuracy: 0.6538461538461539 PredNo: 104
+4904
+Correct: 475 Incorrect: 231 Accuracy: 0.6728045325779037 PredNo: 706
+4906
+Correct: 577 Incorrect: 139 Accuracy: 0.8058659217877095 PredNo: 716
+4912
+Correct: 89 Incorrect: 51 Accuracy: 0.6357142857142857 PredNo: 140
+4915
+Correct: 260 Incorrect: 71 Accuracy: 0.7854984894259819 PredNo: 331
+4916
+Correct: 176 Incorrect: 73 Accuracy: 0.7068273092369478 PredNo: 249
+4919
+Correct: 332 Incorrect: 145 Accuracy: 0.6960167714884696 PredNo: 477
+4927
+Correct: 87 Incorrect: 32 Accuracy: 0.7310924369747899 PredNo: 119
+4930
+Correct: 391 Incorrect: 93 Accuracy: 0.8078512396694215 PredNo: 484
+4934
+Correct: 261 Incorrect: 150 Accuracy: 0.635036496350365 PredNo: 411
+4935
+Correct: 228 Incorrect: 192 Accuracy: 0.5428571428571428 PredNo: 420
+4938
+Correct: 437 Incorrect: 59 Accuracy: 0.8810483870967742 PredNo: 496
+4942
+Correct: 275 Incorrect: 145 Accuracy: 0.6547619047619048 PredNo: 420
+4943
+Correct: 25 Incorrect: 11 Accuracy: 0.6944444444444444 PredNo: 36
+4952
+Correct: 276 Incorrect: 123 Accuracy: 0.6917293233082706 PredNo: 399
+4956
+Correct: 362 Incorrect: 35 Accuracy: 0.9118387909319899 PredNo: 397
+4958
+Correct: 343 Incorrect: 45 Accuracy: 0.884020618556701 PredNo: 388
+4960
+Correct: 372 Incorrect: 27 Accuracy: 0.9323308270676691 PredNo: 399
+4968
+Correct: 58 Incorrect: 49 Accuracy: 0.5420560747663551 PredNo: 107
+4976
+Correct: 213 Incorrect: 96 Accuracy: 0.6893203883495146 PredNo: 309
+4977
+Correct: 182 Incorrect: 69 Accuracy: 0.7250996015936255 PredNo: 251
+4984
+Correct: 265 Incorrect: 147 Accuracy: 0.6432038834951457 PredNo: 412
+4994
+Correct: 140 Incorrect: 98 Accuracy: 0.5882352941176471 PredNo: 238
+4999
+Correct: 211 Incorrect: 72 Accuracy: 0.7455830388692579 PredNo: 283
+5007
+Correct: 388 Incorrect: 7 Accuracy: 0.9822784810126582 PredNo: 395
+5203
+Correct: 582 Incorrect: 128 Accuracy: 0.819718309859155 PredNo: 710
+5215
+Correct: 280 Incorrect: 109 Accuracy: 0.7197943444730077 PredNo: 389
+5225
+Correct: 287 Incorrect: 33 Accuracy: 0.896875 PredNo: 320
+5234
+Correct: 251 Incorrect: 99 Accuracy: 0.7171428571428572 PredNo: 350
+5243
+Correct: 148 Incorrect: 102 Accuracy: 0.592 PredNo: 250
+5258
+Correct: 26 Incorrect: 0 Accuracy: 1.0 PredNo: 26
+5259
+Correct: 222 Incorrect: 22 Accuracy: 0.9098360655737705 PredNo: 244
+5264
+Correct: 261 Incorrect: 39 Accuracy: 0.87 PredNo: 300
+5269
+Correct: 215 Incorrect: 102 Accuracy: 0.6782334384858044 PredNo: 317
+5284
+Correct: 5 Incorrect: 8 Accuracy: 0.38461538461538464 PredNo: 13
+5285
+Correct: 167 Incorrect: 57 Accuracy: 0.7455357142857143 PredNo: 224
+5288
+Correct: 157 Incorrect: 31 Accuracy: 0.8351063829787234 PredNo: 188
+5305
+Correct: 539 Incorrect: 173 Accuracy: 0.7570224719101124 PredNo: 712
+5388
+Correct: 403 Incorrect: 316 Accuracy: 0.5605006954102921 PredNo: 719
+5434
+Correct: 451 Incorrect: 265 Accuracy: 0.6298882681564246 PredNo: 716
+5469
+Correct: 541 Incorrect: 165 Accuracy: 0.7662889518413598 PredNo: 706
+5471
+Correct: 644 Incorrect: 73 Accuracy: 0.898186889818689 PredNo: 717
+5484
+Correct: 658 Incorrect: 48 Accuracy: 0.9320113314447592 PredNo: 706
+5515
+Correct: 553 Incorrect: 125 Accuracy: 0.8156342182890856 PredNo: 678
+5519
+Correct: 191 Incorrect: 31 Accuracy: 0.8603603603603603 PredNo: 222
+5521
+Correct: 245 Incorrect: 49 Accuracy: 0.8333333333333334 PredNo: 294
+5522
+Correct: 617 Incorrect: 84 Accuracy: 0.8801711840228246 PredNo: 701
+5525
+Correct: 527 Incorrect: 158 Accuracy: 0.7693430656934307 PredNo: 685
+5531
+Correct: 636 Incorrect: 68 Accuracy: 0.9034090909090909 PredNo: 704
+5533
+Correct: 521 Incorrect: 164 Accuracy: 0.7605839416058394 PredNo: 685
+5534
+Correct: 573 Incorrect: 144 Accuracy: 0.799163179916318 PredNo: 717
+5538
+Correct: 164 Incorrect: 72 Accuracy: 0.6949152542372882 PredNo: 236
+5607
+Correct: 595 Incorrect: 112 Accuracy: 0.8415841584158416 PredNo: 707
+5608
+Correct: 621 Incorrect: 77 Accuracy: 0.8896848137535817 PredNo: 698
+5706
+Correct: 327 Incorrect: 65 Accuracy: 0.8341836734693877 PredNo: 392
+5871
+Correct: 276 Incorrect: 111 Accuracy: 0.7131782945736435 PredNo: 387
+5880
+Correct: 294 Incorrect: 70 Accuracy: 0.8076923076923077 PredNo: 364
+5906
+Correct: 299 Incorrect: 91 Accuracy: 0.7666666666666667 PredNo: 390
+5907
+Correct: 315 Incorrect: 38 Accuracy: 0.8923512747875354 PredNo: 353
+6005
+Correct: 584 Incorrect: 111 Accuracy: 0.8402877697841726 PredNo: 695
+6108
+Correct: 491 Incorrect: 219 Accuracy: 0.6915492957746479 PredNo: 710
+6112
+Correct: 582 Incorrect: 122 Accuracy: 0.8267045454545454 PredNo: 704
+6115
+Correct: 559 Incorrect: 151 Accuracy: 0.7873239436619718 PredNo: 710
+6116
+Correct: 524 Incorrect: 188 Accuracy: 0.7359550561797753 PredNo: 712
+6117
+Correct: 566 Incorrect: 129 Accuracy: 0.814388489208633 PredNo: 695
+6120
+Correct: 530 Incorrect: 176 Accuracy: 0.7507082152974505 PredNo: 706
+6128
+Correct: 527 Incorrect: 174 Accuracy: 0.7517831669044223 PredNo: 701
+6131
+Correct: 496 Incorrect: 189 Accuracy: 0.724087591240876 PredNo: 685
+6133
+Correct: 477 Incorrect: 220 Accuracy: 0.6843615494978479 PredNo: 697
+6136
+Correct: 630 Incorrect: 61 Accuracy: 0.9117221418234442 PredNo: 691
+6139
+Correct: 604 Incorrect: 106 Accuracy: 0.8507042253521127 PredNo: 710
+6141
+Correct: 563 Incorrect: 136 Accuracy: 0.8054363376251789 PredNo: 699
+6142
+Correct: 686 Incorrect: 28 Accuracy: 0.9607843137254902 PredNo: 714
+6145
+Correct: 487 Incorrect: 229 Accuracy: 0.6801675977653632 PredNo: 716
+6152
+Correct: 518 Incorrect: 6 Accuracy: 0.9885496183206107 PredNo: 524
+6153
+Correct: 573 Incorrect: 100 Accuracy: 0.8514115898959881 PredNo: 673
+6155
+Correct: 571 Incorrect: 129 Accuracy: 0.8157142857142857 PredNo: 700
+6164
+Correct: 561 Incorrect: 150 Accuracy: 0.7890295358649789 PredNo: 711
+6165
+Correct: 525 Incorrect: 179 Accuracy: 0.7457386363636364 PredNo: 704
+6166
+Correct: 367 Incorrect: 346 Accuracy: 0.514726507713885 PredNo: 713
+6168
+Correct: 592 Incorrect: 121 Accuracy: 0.8302945301542777 PredNo: 713
+6172
+Correct: 519 Incorrect: 191 Accuracy: 0.7309859154929578 PredNo: 710
+6176
+Correct: 632 Incorrect: 87 Accuracy: 0.8789986091794159 PredNo: 719
+6177
+Correct: 163 Incorrect: 101 Accuracy: 0.6174242424242424 PredNo: 264
+6183
+Correct: 289 Incorrect: 87 Accuracy: 0.7686170212765957 PredNo: 376
+6184
+Correct: 665 Incorrect: 24 Accuracy: 0.965166908563135 PredNo: 689
+6189
+Correct: 568 Incorrect: 128 Accuracy: 0.8160919540229885 PredNo: 696
+6191
+Correct: 583 Incorrect: 114 Accuracy: 0.836441893830703 PredNo: 697
+6192
+Correct: 658 Incorrect: 56 Accuracy: 0.9215686274509803 PredNo: 714
+6196
+Correct: 461 Incorrect: 254 Accuracy: 0.6447552447552447 PredNo: 715
+6197
+Correct: 482 Incorrect: 237 Accuracy: 0.6703755215577191 PredNo: 719
+6201
+Correct: 575 Incorrect: 113 Accuracy: 0.8357558139534884 PredNo: 688
+6202
+Correct: 473 Incorrect: 241 Accuracy: 0.6624649859943977 PredNo: 714
+6205
+Correct: 383 Incorrect: 195 Accuracy: 0.6626297577854672 PredNo: 578
+6206
+Correct: 479 Incorrect: 233 Accuracy: 0.672752808988764 PredNo: 712
+6209
+Correct: 684 Incorrect: 30 Accuracy: 0.957983193277311 PredNo: 714
+6213
+Correct: 593 Incorrect: 120 Accuracy: 0.8316970546984572 PredNo: 713
+6214
+Correct: 442 Incorrect: 11 Accuracy: 0.9757174392935982 PredNo: 453
+6215
+Correct: 448 Incorrect: 212 Accuracy: 0.6787878787878788 PredNo: 660
+6216
+Correct: 441 Incorrect: 264 Accuracy: 0.625531914893617 PredNo: 705
+6224
+Correct: 438 Incorrect: 108 Accuracy: 0.8021978021978022 PredNo: 546
+6225
+Correct: 581 Incorrect: 119 Accuracy: 0.83 PredNo: 700
+6226
+Correct: 460 Incorrect: 250 Accuracy: 0.647887323943662 PredNo: 710
+6230
+Correct: 351 Incorrect: 128 Accuracy: 0.732776617954071 PredNo: 479
+6235
+Correct: 516 Incorrect: 194 Accuracy: 0.7267605633802817 PredNo: 710
+6239
+Correct: 494 Incorrect: 219 Accuracy: 0.6928471248246845 PredNo: 713
+6243
+Correct: 397 Incorrect: 130 Accuracy: 0.7533206831119544 PredNo: 527
+6251
+Correct: 537 Incorrect: 164 Accuracy: 0.7660485021398002 PredNo: 701
+6257
+Correct: 645 Incorrect: 71 Accuracy: 0.9008379888268156 PredNo: 716
+6269
+Correct: 516 Incorrect: 204 Accuracy: 0.7166666666666667 PredNo: 720
+6271
+Correct: 539 Incorrect: 143 Accuracy: 0.7903225806451613 PredNo: 682
+6277
+Correct: 554 Incorrect: 159 Accuracy: 0.7769985974754559 PredNo: 713
+6278
+Correct: 483 Incorrect: 0 Accuracy: 1.0 PredNo: 483
+6281
+Correct: 505 Incorrect: 186 Accuracy: 0.7308248914616498 PredNo: 691
+6282
+Correct: 517 Incorrect: 197 Accuracy: 0.7240896358543417 PredNo: 714
+6283
+Correct: 606 Incorrect: 104 Accuracy: 0.8535211267605634 PredNo: 710
+6285
+Correct: 410 Incorrect: 311 Accuracy: 0.5686546463245492 PredNo: 721
+6289
+Correct: 684 Incorrect: 29 Accuracy: 0.9593267882187938 PredNo: 713
+6405
+Correct: 171 Incorrect: 76 Accuracy: 0.6923076923076923 PredNo: 247
+6409
+Correct: 190 Incorrect: 35 Accuracy: 0.8444444444444444 PredNo: 225
+6412
+Correct: 125 Incorrect: 119 Accuracy: 0.5122950819672131 PredNo: 244
+6414
+Correct: 171 Incorrect: 55 Accuracy: 0.7566371681415929 PredNo: 226
+6415
+Correct: 144 Incorrect: 101 Accuracy: 0.5877551020408164 PredNo: 245
+6422
+Correct: 123 Incorrect: 46 Accuracy: 0.727810650887574 PredNo: 169
+6431
+Correct: 128 Incorrect: 43 Accuracy: 0.7485380116959064 PredNo: 171
+6442
+Correct: 126 Incorrect: 6 Accuracy: 0.9545454545454546 PredNo: 132
+6443
+Correct: 95 Incorrect: 17 Accuracy: 0.8482142857142857 PredNo: 112
+6449
+Correct: 92 Incorrect: 82 Accuracy: 0.5287356321839081 PredNo: 174
+6451
+Correct: 124 Incorrect: 40 Accuracy: 0.7560975609756098 PredNo: 164
+6452
+Correct: 86 Incorrect: 66 Accuracy: 0.5657894736842105 PredNo: 152
+6456
+Correct: 66 Incorrect: 71 Accuracy: 0.48175182481751827 PredNo: 137
+6464
+Correct: 79 Incorrect: 4 Accuracy: 0.9518072289156626 PredNo: 83
+6477
+Correct: 60 Incorrect: 0 Accuracy: 1.0 PredNo: 60
+6504
+Correct: 211 Incorrect: 74 Accuracy: 0.7403508771929824 PredNo: 285
+6505
+Correct: 578 Incorrect: 138 Accuracy: 0.8072625698324022 PredNo: 716
+6525
+Correct: 48 Incorrect: 30 Accuracy: 0.6153846153846154 PredNo: 78
+6531
+Correct: 44 Incorrect: 25 Accuracy: 0.6376811594202898 PredNo: 69
+6533
+Correct: 7 Incorrect: 5 Accuracy: 0.5833333333333334 PredNo: 12
+6552
+Correct: 22 Incorrect: 1 Accuracy: 0.9565217391304348 PredNo: 23
+6605
+Correct: 528 Incorrect: 180 Accuracy: 0.7457627118644068 PredNo: 708
+8011
+Correct: 348 Incorrect: 61 Accuracy: 0.8508557457212714 PredNo: 409
+8016
+Correct: 480 Incorrect: 239 Accuracy: 0.6675938803894298 PredNo: 719
+8021
+Correct: 540 Incorrect: 172 Accuracy: 0.7584269662921348 PredNo: 712
+8033
+Correct: 538 Incorrect: 169 Accuracy: 0.7609618104667609 PredNo: 707
+8039
+Correct: 395 Incorrect: 138 Accuracy: 0.7410881801125704 PredNo: 533
+8046
+Correct: 524 Incorrect: 190 Accuracy: 0.7338935574229691 PredNo: 714
+8070
+Correct: 474 Incorrect: 235 Accuracy: 0.6685472496473907 PredNo: 709
+8072
+Correct: 628 Incorrect: 79 Accuracy: 0.8882602545968883 PredNo: 707
+8081
+Correct: 561 Incorrect: 154 Accuracy: 0.7846153846153846 PredNo: 715
+8101
+Correct: 682 Incorrect: 29 Accuracy: 0.9592123769338959 PredNo: 711
+8103
+Correct: 517 Incorrect: 25 Accuracy: 0.9538745387453874 PredNo: 542
+8105
+Correct: 444 Incorrect: 271 Accuracy: 0.620979020979021 PredNo: 715
+8110
+Correct: 524 Incorrect: 155 Accuracy: 0.7717231222385862 PredNo: 679
+8112
+Correct: 506 Incorrect: 210 Accuracy: 0.7067039106145251 PredNo: 716
+8114
+Correct: 240 Incorrect: 75 Accuracy: 0.7619047619047619 PredNo: 315
+8131
+Correct: 331 Incorrect: 383 Accuracy: 0.4635854341736695 PredNo: 714
+8150
+Something went wrong HERE!!!!!!!!
+8163
+Correct: 556 Incorrect: 156 Accuracy: 0.7808988764044944 PredNo: 712
+8201
+Correct: 553 Incorrect: 117 Accuracy: 0.8253731343283582 PredNo: 670
+8210
+Correct: 310 Incorrect: 81 Accuracy: 0.7928388746803069 PredNo: 391
+8213
+Correct: 447 Incorrect: 84 Accuracy: 0.8418079096045198 PredNo: 531
+8215
+Correct: 340 Incorrect: 124 Accuracy: 0.7327586206896551 PredNo: 464
+8222
+Correct: 136 Incorrect: 22 Accuracy: 0.8607594936708861 PredNo: 158
+8249
+Correct: 517 Incorrect: 196 Accuracy: 0.7251051893408135 PredNo: 713
+8261
+Correct: 376 Incorrect: 149 Accuracy: 0.7161904761904762 PredNo: 525
+8271
+Correct: 288 Incorrect: 164 Accuracy: 0.6371681415929203 PredNo: 452
+8341
+Correct: 114 Incorrect: 40 Accuracy: 0.7402597402597403 PredNo: 154
+8374
+Correct: 547 Incorrect: 168 Accuracy: 0.765034965034965 PredNo: 715
+8404
+Correct: 246 Incorrect: 179 Accuracy: 0.5788235294117647 PredNo: 425
+8411
+Correct: 279 Incorrect: 114 Accuracy: 0.7099236641221374 PredNo: 393
+8422
+Correct: 317 Incorrect: 71 Accuracy: 0.8170103092783505 PredNo: 388
+8427
+Correct: 249 Incorrect: 136 Accuracy: 0.6467532467532467 PredNo: 385
+8429
+Correct: 282 Incorrect: 31 Accuracy: 0.9009584664536742 PredNo: 313
+8442
+Correct: 32 Incorrect: 3 Accuracy: 0.9142857142857143 PredNo: 35
+8443
+Correct: 165 Incorrect: 19 Accuracy: 0.8967391304347826 PredNo: 184
+8454
+Correct: 139 Incorrect: 26 Accuracy: 0.8424242424242424 PredNo: 165
+8463
+Correct: 82 Incorrect: 46 Accuracy: 0.640625 PredNo: 128
+8464
+Correct: 75 Incorrect: 24 Accuracy: 0.7575757575757576 PredNo: 99
+8466
+Correct: 33 Incorrect: 0 Accuracy: 1.0 PredNo: 33
+8467
+Correct: 79 Incorrect: 19 Accuracy: 0.8061224489795918 PredNo: 98
+8473
+Correct: 17 Incorrect: 30 Accuracy: 0.3617021276595745 PredNo: 47
+8480
+Correct: 19 Incorrect: 3 Accuracy: 0.8636363636363636 PredNo: 22
+8481
+Correct: 16 Incorrect: 0 Accuracy: 1.0 PredNo: 16
+8488
+Correct: 28 Incorrect: 1 Accuracy: 0.9655172413793104 PredNo: 29
+8926
+Correct: 434 Incorrect: 256 Accuracy: 0.6289855072463768 PredNo: 690
+8940
+Correct: 442 Incorrect: 120 Accuracy: 0.7864768683274022 PredNo: 562
+8996
+Correct: 175 Incorrect: 59 Accuracy: 0.7478632478632479 PredNo: 234
+9802
+Correct: 220 Incorrect: 107 Accuracy: 0.672782874617737 PredNo: 327
+9902
+Correct: 562 Incorrect: 134 Accuracy: 0.8074712643678161 PredNo: 696
+9904
+Correct: 499 Incorrect: 213 Accuracy: 0.7008426966292135 PredNo: 712
+9905
+Correct: 580 Incorrect: 124 Accuracy: 0.8238636363636364 PredNo: 704
+9906
+Correct: 409 Incorrect: 257 Accuracy: 0.6141141141141141 PredNo: 666
+9907
+Correct: 611 Incorrect: 90 Accuracy: 0.8716119828815977 PredNo: 701
+9908
+Correct: 467 Incorrect: 198 Accuracy: 0.7022556390977444 PredNo: 665
+9910
+Correct: 395 Incorrect: 313 Accuracy: 0.557909604519774 PredNo: 708
+9911
+Correct: 466 Incorrect: 240 Accuracy: 0.660056657223796 PredNo: 706
+9912
+Correct: 544 Incorrect: 164 Accuracy: 0.768361581920904 PredNo: 708
+9914
+Correct: 545 Incorrect: 168 Accuracy: 0.7643758765778401 PredNo: 713
+9917
+Correct: 459 Incorrect: 234 Accuracy: 0.6623376623376623 PredNo: 693
+9918
+Correct: 496 Incorrect: 189 Accuracy: 0.724087591240876 PredNo: 685
+9919
+Correct: 514 Incorrect: 171 Accuracy: 0.7503649635036497 PredNo: 685
+9921
+Correct: 482 Incorrect: 222 Accuracy: 0.6846590909090909 PredNo: 704
+9924
+Correct: 467 Incorrect: 237 Accuracy: 0.6633522727272727 PredNo: 704
+9925
+Correct: 510 Incorrect: 185 Accuracy: 0.7338129496402878 PredNo: 695
+9926
+Correct: 607 Incorrect: 72 Accuracy: 0.8939617083946981 PredNo: 679
+9927
+Correct: 399 Incorrect: 311 Accuracy: 0.5619718309859155 PredNo: 710
+9928
+Correct: 620 Incorrect: 77 Accuracy: 0.8895265423242468 PredNo: 697
+9929
+Correct: 429 Incorrect: 266 Accuracy: 0.6172661870503597 PredNo: 695
+9930
+Correct: 577 Incorrect: 117 Accuracy: 0.8314121037463977 PredNo: 694
+9931
+Correct: 622 Incorrect: 39 Accuracy: 0.9409984871406959 PredNo: 661
+9933
+Correct: 623 Incorrect: 87 Accuracy: 0.8774647887323944 PredNo: 710
+9934
+Correct: 596 Incorrect: 113 Accuracy: 0.840620592383639 PredNo: 709
+9935
+Correct: 547 Incorrect: 158 Accuracy: 0.775886524822695 PredNo: 705
+9937
+Correct: 447 Incorrect: 236 Accuracy: 0.6544655929721815 PredNo: 683
+9938
+Correct: 456 Incorrect: 260 Accuracy: 0.6368715083798883 PredNo: 716
+9939
+Correct: 618 Incorrect: 100 Accuracy: 0.8607242339832869 PredNo: 718
+9940
+Correct: 702 Incorrect: 8 Accuracy: 0.9887323943661972 PredNo: 710
+9941
+Correct: 579 Incorrect: 128 Accuracy: 0.8189533239038189 PredNo: 707
+9942
+Correct: 604 Incorrect: 106 Accuracy: 0.8507042253521127 PredNo: 710
+9943
+Correct: 454 Incorrect: 253 Accuracy: 0.6421499292786421 PredNo: 707
+9944
+Correct: 538 Incorrect: 164 Accuracy: 0.7663817663817664 PredNo: 702
+9945
+Correct: 694 Incorrect: 22 Accuracy: 0.9692737430167597 PredNo: 716
+9946
+Correct: 244 Incorrect: 8 Accuracy: 0.9682539682539683 PredNo: 252
+9955
+Correct: 689 Incorrect: 21 Accuracy: 0.9704225352112676 PredNo: 710
+9958
+Correct: 428 Incorrect: 209 Accuracy: 0.6718995290423861 PredNo: 637
+0050
+Something went wrong HERE!!!!!!!!
+0051
+Something went wrong HERE!!!!!!!!
+0052
+Something went wrong HERE!!!!!!!!
+0053
+Something went wrong HERE!!!!!!!!
+0054
+Something went wrong HERE!!!!!!!!
+0055
+Something went wrong HERE!!!!!!!!
+0056
+Something went wrong HERE!!!!!!!!
+0057
+Something went wrong HERE!!!!!!!!
+0058
+Something went wrong HERE!!!!!!!!
+0059
+Something went wrong HERE!!!!!!!!
+0061
+Something went wrong HERE!!!!!!!!
+9103
+Correct: 571 Incorrect: 130 Accuracy: 0.8145506419400856 PredNo: 701
+9105
+Correct: 497 Incorrect: 192 Accuracy: 0.7213352685050798 PredNo: 689
+9106
+Correct: 413 Incorrect: 118 Accuracy: 0.7777777777777778 PredNo: 531
+9110
+Correct: 423 Incorrect: 100 Accuracy: 0.8087954110898662 PredNo: 523
+9136
+Correct: 410 Incorrect: 162 Accuracy: 0.7167832167832168 PredNo: 572
+9157
+Correct: 457 Incorrect: 65 Accuracy: 0.8754789272030651 PredNo: 522
+9188
+Correct: 360 Incorrect: 169 Accuracy: 0.6805293005671077 PredNo: 529
