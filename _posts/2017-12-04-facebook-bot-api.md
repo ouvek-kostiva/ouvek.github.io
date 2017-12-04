@@ -1,51 +1,51 @@
 ---
 layout: post
-title:  "§Q¥Î Facebook Graph API »s§@²á¤Ñ¾÷¾¹¤H Chat Bot"
-date:   2017-12-04 17:30:00 +0800
+title:  "åˆ©ç”¨ Facebook Graph API è£½ä½œèŠå¤©æ©Ÿå™¨äºº Chat Bot"
+date:   2017-12-04 17:24:00 +0800
 ---
 
-# ³]©w Facebook Developer ¶}µo¤H­û±b¸¹
+# è¨­å®š Facebook Developer é–‹ç™¼äººå“¡å¸³è™Ÿ
 
-### §Ú°²³]§A¤w¸g¦³¤@¯ë Facebook ±b¸¹¥B¤wµn¤J
+### æˆ‘å‡è¨­ä½ å·²ç¶“æœ‰ä¸€èˆ¬ Facebook å¸³è™Ÿä¸”å·²ç™»å…¥
 
-### «ö·Ó¬yµ{¶ñ¼g¸ê°T
+### æŒ‰ç…§æµç¨‹å¡«å¯«è³‡è¨Š
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/1.png)
 
 ![FB Dev Register](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/2.png)
 
-### §¹¦¨«á¥Ó½Ğ«á¡AÂI¥k¤W¨¤ New Apps ¦AÂI Add a New App
+### å®Œæˆå¾Œç”³è«‹å¾Œï¼Œé»å³ä¸Šè§’ New Apps å†é» Add a New App
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/3.png)
 
-### Display Name ¬O App ªº¦WºÙ¡AEmail ¬O FB Ápµ¸®É¥Îªº¡A½Ğ¶ñ§A¦¬±o¨ì«Hªº«H½c
+### Display Name æ˜¯ App çš„åç¨±ï¼ŒEmail æ˜¯ FB è¯çµ¡æ™‚ç”¨çš„ï¼Œè«‹å¡«ä½ æ”¶å¾—åˆ°ä¿¡çš„ä¿¡ç®±
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/4.png)
 
-### ¨ì³o­Ó­¶­±«áÂI Messenger ¤U¤èªº Set Up
+### åˆ°é€™å€‹é é¢å¾Œé» Messenger ä¸‹æ–¹çš„ Set Up
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/6.png)
 
-### Facebook ªº Messenger Chatbot ¬O¸ò±M­¶¸j©wªº¡A©Ò¥H¦pªGÁÙ¨S¦³±M­¶´N³Ğ¤@­Ó
+### Facebook çš„ Messenger Chatbot æ˜¯è·Ÿå°ˆé ç¶å®šçš„ï¼Œæ‰€ä»¥å¦‚æœé‚„æ²’æœ‰å°ˆé å°±å‰µä¸€å€‹
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/7.png)
 
-### ¥¦·|­n¨D³\¥i¡A¦]¬°§A¥¿¦b°µªº App ¥¼¨Ó·|¥N´À§AÀ°±M­¶¦^«H
+### å®ƒæœƒè¦æ±‚è¨±å¯ï¼Œå› ç‚ºä½ æ­£åœ¨åšçš„ App æœªä¾†æœƒä»£æ›¿ä½ å¹«å°ˆé å›ä¿¡
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/8.png)
 
-### §¹¦¨«á·|²£¥Í¤@­Ó Page Access Token¡A³o­Ó¬O FB ¥Î¨Ó¿ë§O¬O§Aµ{¦¡¶Çªº¥N¸¹
+### å®Œæˆå¾Œæœƒç”¢ç”Ÿä¸€å€‹ Page Access Tokenï¼Œé€™å€‹æ˜¯ FB ç”¨ä¾†è¾¨åˆ¥æ˜¯ä½ ç¨‹å¼å‚³çš„ä»£è™Ÿ
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/9.png)
 
-### «ö¤U¤èªº Setup Webhook ·|¥X²{«Ü¦h¿ï¶µ¡A¦pªG¥u­n¶Ç°T®§©M¥Î«ö¯Ã¡A¤Ä messages, messages_postbacks¡A³Ì¤U­±¨º­Ó¬O¦pªG³QÄµ§i®É·|¶ÇªF¦èµ¹§Aªºµ{¦¡
+### æŒ‰ä¸‹æ–¹çš„ Setup Webhook æœƒå‡ºç¾å¾ˆå¤šé¸é …ï¼Œå¦‚æœåªè¦å‚³è¨Šæ¯å’Œç”¨æŒ‰ç´ï¼Œå‹¾ messages, messages_postbacksï¼Œæœ€ä¸‹é¢é‚£å€‹æ˜¯å¦‚æœè¢«è­¦å‘Šæ™‚æœƒå‚³æ±è¥¿çµ¦ä½ çš„ç¨‹å¼
 
-### Callback URL ´N¬O§Aµ{¦¡·|±µ¦¬°T®§ªººô§}¡AVerify Token ¬OÂI¤U¤U­± Verify and Save ®É Facebook ¶Ç¤@«h GET °T®§µ¹ Callback URL §Aµ{¦¡À³¸Ó­n¦^ªº
+### Callback URL å°±æ˜¯ä½ ç¨‹å¼æœƒæ¥æ”¶è¨Šæ¯çš„ç¶²å€ï¼ŒVerify Token æ˜¯é»ä¸‹ä¸‹é¢ Verify and Save æ™‚ Facebook å‚³ä¸€å‰‡ GET è¨Šæ¯çµ¦ Callback URL ä½ ç¨‹å¼æ‡‰è©²è¦å›çš„
 
 ```python
 
-VERIFY_TOKEN = "´N¬O Setup Webhook ¨º¸Ì§A¦Û¤v¶ñªºªF¦è"
-PAT = "´N¬O Page Access Token ¥¦µ¹§Aªº¤@¦ê"
+VERIFY_TOKEN = "å°±æ˜¯ Setup Webhook é‚£è£¡ä½ è‡ªå·±å¡«çš„æ±è¥¿"
+PAT = "å°±æ˜¯ Page Access Token å®ƒçµ¦ä½ çš„ä¸€ä¸²"
 
 app = Flask(__name__)
 
@@ -64,16 +64,16 @@ if __name__ == '__main__':
     app.run()
 ```
 
-### ¥Ø«e¦]¬°§Aªº²á¤Ñ¾÷¾¹¤H¦b¶}µo¼Ò¦¡¤¤¡A©Ò¥H°£¤F§A¦Û¤v¨S¿ìªk¥Î¡A¦pªG§A­nÅı§O¤H¤]¦¬±o¨ì¾÷¾¹¤Hªº°T®§­n¨ì Roles ©³¤U Roles ¤¤ªº Test User §â¨ä¥L¤Hªº±b¸¹¥[¶i¥h¤~¦æ
+### ç›®å‰å› ç‚ºä½ çš„èŠå¤©æ©Ÿå™¨äººåœ¨é–‹ç™¼æ¨¡å¼ä¸­ï¼Œæ‰€ä»¥é™¤äº†ä½ è‡ªå·±æ²’è¾¦æ³•ç”¨ï¼Œå¦‚æœä½ è¦è®“åˆ¥äººä¹Ÿæ”¶å¾—åˆ°æ©Ÿå™¨äººçš„è¨Šæ¯è¦åˆ° Roles åº•ä¸‹ Roles ä¸­çš„ Test User æŠŠå…¶ä»–äººçš„å¸³è™ŸåŠ é€²å»æ‰è¡Œ
 
 ![FB Dev Homepage](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/facebook-bot-api-img/11.png)
 
-### ¤U­±³¡¤À¬O§Aµ{¦¡±µ¦¬¨Ï¥ÎªÌ³z¹L FB API ¶Ç°T®§µ¹§A¡A¤]©ñ¦b¦P¤@­ÓÀÉ®×
+### ä¸‹é¢éƒ¨åˆ†æ˜¯ä½ ç¨‹å¼æ¥æ”¶ä½¿ç”¨è€…é€é FB API å‚³è¨Šæ¯çµ¦ä½ ï¼Œä¹Ÿæ”¾åœ¨åŒä¸€å€‹æª”æ¡ˆ
 
-# ª`·N¡GFB ¶W¹L 20 ¬í¨S±q§Aµ{¦¡¦¬¨ì OK 200 ´N·|©µ¿ğ¤@¤U¦A­«°e¡A©Ò¥H¤@©w­nºÉ§Ö°e¥X OK 200
+# æ³¨æ„ï¼šFB è¶…é 20 ç§’æ²’å¾ä½ ç¨‹å¼æ”¶åˆ° OK 200 å°±æœƒå»¶é²ä¸€ä¸‹å†é‡é€ï¼Œæ‰€ä»¥ä¸€å®šè¦ç›¡å¿«é€å‡º OK 200
 
 ```python
-# FB API ¥Î POST ¦¬°e°T®§
+# FB API ç”¨ POST æ”¶é€è¨Šæ¯
 @app.route('/', methods=['POST'])
 @app.route('/webhook', methods=['POST'])
 def handle_messages():
@@ -81,29 +81,29 @@ def handle_messages():
     entry = data['entry'][0]
     if entry.get("messaging"):
         messaging_event = entry['messaging'][0]
-        sender_id = messaging_event['sender']['id'] # ¨Ï¥ÎªÌªº ID
-        timestamp = entry['time'] # ®É¶¡
+        sender_id = messaging_event['sender']['id'] # ä½¿ç”¨è€…çš„ ID
+        timestamp = entry['time'] # æ™‚é–“
         if messaging_event.get("message"):
             if messaging_event['message'].get('text'):
-                text = messaging_event['message']['text'] #¨Ï¥ÎªÌ¶Çªº°T®§
-                insret = insertRec() ### §Ú¦b¦¬¨ì°T®§«á¥ß¨è±N°T®§¥ı¦s¨ì¸ê®Æ®w
+                text = messaging_event['message']['text'] #ä½¿ç”¨è€…å‚³çš„è¨Šæ¯
+                insret = insertRec() ### æˆ‘åœ¨æ”¶åˆ°è¨Šæ¯å¾Œç«‹åˆ»å°‡è¨Šæ¯å…ˆå­˜åˆ°è³‡æ–™åº«
                 return 'ok', 200
             if messaging_event['message'].get('sticker_id'):
-                if str(messaging_event['message']['sticker_id']) == str(369239263222822): #¤pÆgªº«ö¶s
-                    insret = insertRec() ### §Ú¦b¦¬¨ì°T®§«á¥ß¨è±N°T®§¥ı¦s¨ì¸ê®Æ®w
+                if str(messaging_event['message']['sticker_id']) == str(369239263222822): #å°è®šçš„æŒ‰éˆ•
+                    insret = insertRec() ### æˆ‘åœ¨æ”¶åˆ°è¨Šæ¯å¾Œç«‹åˆ»å°‡è¨Šæ¯å…ˆå­˜åˆ°è³‡æ–™åº«
                     return 'ok', 200
-                elif str(messaging_event['message']['sticker_id']) == str(369239343222814): #¤¤Ægªº«ö¶s
-                    insret = insertRec() ### §Ú¦b¦¬¨ì°T®§«á¥ß¨è±N°T®§¥ı¦s¨ì¸ê®Æ®w
+                elif str(messaging_event['message']['sticker_id']) == str(369239343222814): #ä¸­è®šçš„æŒ‰éˆ•
+                    insret = insertRec() ### æˆ‘åœ¨æ”¶åˆ°è¨Šæ¯å¾Œç«‹åˆ»å°‡è¨Šæ¯å…ˆå­˜åˆ°è³‡æ–™åº«
                     return 'ok', 200
-                elif str(messaging_event['message']['sticker_id']) == str(369239383222810): #¤jÆgªº«ö¶s
-                    insret = insertRec() ### §Ú¦b¦¬¨ì°T®§«á¥ß¨è±N°T®§¥ı¦s¨ì¸ê®Æ®w
+                elif str(messaging_event['message']['sticker_id']) == str(369239383222810): #å¤§è®šçš„æŒ‰éˆ•
+                    insret = insertRec() ### æˆ‘åœ¨æ”¶åˆ°è¨Šæ¯å¾Œç«‹åˆ»å°‡è¨Šæ¯å…ˆå­˜åˆ°è³‡æ–™åº«
                     return 'ok', 200
                 return 'ok', 200
             return 'ok', 200
         elif messaging_event.get("postback"):
             if messaging_event['postback'].get('payload'):
-                payload = messaging_event['postback']['payload'] #§A¦Û¤v³]©wªº«ö¯Ãªº°T®§
-                insret = insertRec() ### §Ú¦b¦¬¨ì°T®§«á¥ß¨è±N°T®§¥ı¦s¨ì¸ê®Æ®w
+                payload = messaging_event['postback']['payload'] #ä½ è‡ªå·±è¨­å®šçš„æŒ‰ç´çš„è¨Šæ¯
+                insret = insertRec() ### æˆ‘åœ¨æ”¶åˆ°è¨Šæ¯å¾Œç«‹åˆ»å°‡è¨Šæ¯å…ˆå­˜åˆ°è³‡æ–™åº«
                 return 'ok', 200
             return 'ok', 200
         else:
@@ -112,19 +112,19 @@ def handle_messages():
     return 'ok', 200
 ```
 
-### ³]©w¨Ï¥ÎªÌ²Ä¤@¦¸ÂI¶Ç°e°T®§µ¹±M­¶ªºÅwªï¤å¦r¡]³o­Ó¦b Linux ¤Wª½±µ¶K¨ì Bash °õ¦æ¡^
+### è¨­å®šä½¿ç”¨è€…ç¬¬ä¸€æ¬¡é»å‚³é€è¨Šæ¯çµ¦å°ˆé çš„æ­¡è¿æ–‡å­—ï¼ˆé€™å€‹åœ¨ Linux ä¸Šç›´æ¥è²¼åˆ° Bash åŸ·è¡Œï¼‰
 
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{
   "setting_type":"greeting",
   "greeting":{
-    "text":"Åwªï¤å¦r"
+    "text":"æ­¡è¿æ–‡å­—"
   }
-}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=³oÃä­n¶ñ§AªºPageAccessToken"
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=é€™é‚Šè¦å¡«ä½ çš„PageAccessToken"
 
 ```
 
-### ³]©w¤U¤è·|¤@ª½Åã¥Üªº±`¥Î«ö¯Ã
+### è¨­å®šä¸‹æ–¹æœƒä¸€ç›´é¡¯ç¤ºçš„å¸¸ç”¨æŒ‰ç´
 
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{
@@ -177,44 +177,44 @@ curl -X POST -H "Content-Type: application/json" -d '{
     "composer_input_disabled":false,
     "call_to_actions":[
         {
-        "title":"§ó¦h«ö¶s",
+        "title":"æ›´å¤šæŒ‰éˆ•",
         "type":"nested",
         "call_to_actions":[
             {
-            "title":"«ö¶s¤å¦r",
+            "title":"æŒ‰éˆ•æ–‡å­—",
             "type":"postback",
-            "payload":"¹ê»Ú¦¬¨ìªº¦^À³"
+            "payload":"å¯¦éš›æ”¶åˆ°çš„å›æ‡‰"
             },
             {
-            "title":"«ö¶s¤å¦r",
+            "title":"æŒ‰éˆ•æ–‡å­—",
             "type":"postback",
-            "payload":"¹ê»Ú¦¬¨ìªº¦^À³"
+            "payload":"å¯¦éš›æ”¶åˆ°çš„å›æ‡‰"
             },
             {
-            "title":"«ö¶s¤å¦r",
+            "title":"æŒ‰éˆ•æ–‡å­—",
             "type":"postback",
-            "payload":"¹ê»Ú¦¬¨ìªº¦^À³"
+            "payload":"å¯¦éš›æ”¶åˆ°çš„å›æ‡‰"
             },
             {
-            "title":"«ö¶s¤å¦r",
+            "title":"æŒ‰éˆ•æ–‡å­—",
             "type":"postback",
-            "payload":"¹ê»Ú¦¬¨ìªº¦^À³"
+            "payload":"å¯¦éš›æ”¶åˆ°çš„å›æ‡‰"
             },
             {
-            "title":"«ö¶s¤å¦r",
+            "title":"æŒ‰éˆ•æ–‡å­—",
             "type":"postback",
-            "payload":"¹ê»Ú¦¬¨ìªº¦^À³"
+            "payload":"å¯¦éš›æ”¶åˆ°çš„å›æ‡‰"
             }
         ]
         },
         {
         "type":"web_url",
-        "title":"ºô¯¸«ö¶s¤å¦r",
+        "title":"ç¶²ç«™æŒ‰éˆ•æ–‡å­—",
         "url":"https://www.example.com",
         "webview_height_ratio":"full"
         }
     ]
     }
 ]
-}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=³oÃä­n¶ñ§AªºPageAccessToken"
+}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=é€™é‚Šè¦å¡«ä½ çš„PageAccessToken"
 ```
