@@ -116,7 +116,7 @@ def handle_messages():
 
 ### 設定使用者第一次點傳送訊息給專頁的歡迎文字（這個在 Linux 上直接貼到 Bash 執行）
 
-```bash
+```shell
 curl -X POST -H "Content-Type: application/json" -d '{
   "setting_type":"greeting",
   "greeting":{
@@ -128,7 +128,7 @@ curl -X POST -H "Content-Type: application/json" -d '{
 
 ### 設定下方會一直顯示的常用按紐
 
-```bash
+```shell
 curl -X POST -H "Content-Type: application/json" -d '{
 "persistent_menu":[
     {
