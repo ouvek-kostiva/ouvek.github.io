@@ -13,6 +13,6 @@ permalink: /about/
 
 #### 非常喜歡設計世界，還為此設計了一個語言和兩種文字，會在上方小說頁籤中更新
 
-#### [中文履歷](http://ouvek.com/)
-#### [English CV](http://ouvek.com/)
-#### [Deutsch CV](http://ouvek.com/)
+#### [中文履歷](http://ouvek.com/2017/06/30/zhcv.html)
+#### [English CV](http://ouvek.com/2017/06/30/encv.html)
+#### [Deutsch CV](http://ouvek.com/2017/06/30/decv.html)
