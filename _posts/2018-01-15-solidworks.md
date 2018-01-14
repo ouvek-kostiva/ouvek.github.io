@@ -8,7 +8,7 @@ date:   2018-01-15 00:30:00 +0800
 
 ### 以可以擺蠟燭在中間，上方擺小杯子，保溫
 
-![ministove](http://ouvek.com/assets/img/post/2018-01-15/chair.JPG)
+![ministove](http://ouvek.com/assets/img/post/2018-01-15/stove.JPG)
 
 # 有學校意象的椅子
 
