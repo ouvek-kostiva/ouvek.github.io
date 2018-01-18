@@ -17,17 +17,17 @@ permalink: /projects/
 
 #### Facebook Messenger 聊天機器人示意圖（綁定的專頁已被 Facebook 關閉）
 
-#### [FB 聊天機器人原始碼](https://github.com/ouvek-kostiva/MeowBot)
+#### (FB 聊天機器人原始碼)[https://github.com/ouvek-kostiva/MeowBot]
 
 
 # 用 Heroku 架設 Django
 
-### (Github Repo 原始碼)[https://github.com/ouvek-kostiva/highfreqexam]
+### [Github Repo 原始碼](https://github.com/ouvek-kostiva/highfreqexam)
 
 
 # 架設在 Bitbucket 的 Vue.js 靜態網頁
 
-### (網站位置)[https://ouvek.bitbucket.io/dcardmoney.html]
+### [網站位置](https://ouvek.bitbucket.io/dcardmoney.html)
 
 
 # 英翻中
