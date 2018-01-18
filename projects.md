@@ -17,7 +17,7 @@ permalink: /projects/
 
 ![Linebot QRCode](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/LineBot.png)
 
-![Linebot Image](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/lineimage.png)
+![Linebot Image](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/lineimage.png){:height="50%" width="50%"}
 
 #### Facebook Messenger 聊天機器人示意圖（綁定的專頁已被 Facebook 關閉）
 
