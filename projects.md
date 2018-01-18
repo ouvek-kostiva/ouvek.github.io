@@ -21,7 +21,7 @@ permalink: /projects/
 
 #### Facebook Messenger 聊天機器人示意圖（綁定的專頁已被 Facebook 關閉）
 
-![FB Bot Image](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/FBBot.png)
+![FB Bot Image](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/FBBot.png){:height="50%" width="50%"}
 
 #### (FB 聊天機器人原始碼)[https://github.com/ouvek-kostiva/MeowBot]
 
@@ -43,6 +43,6 @@ permalink: /projects/
 
 # Solidworks 3D 建模
 
-![ministove](http://ouvek.com/assets/img/post/2018-01-15/stove.JPG)
+![ministove](http://ouvek.com/assets/img/post/2018-01-15/stove.JPG){:height="50%" width="50%"}
 
-![KUASchair](http://ouvek.com/assets/img/post/2018-01-15/chair.JPG)
+![KUASchair](http://ouvek.com/assets/img/post/2018-01-15/chair.JPG){:height="50%" width="50%"}
