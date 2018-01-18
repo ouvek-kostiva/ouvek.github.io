@@ -23,7 +23,7 @@ permalink: /projects/
 
 ![FB Bot Image](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/Projects/FBBot.png){:height="50%" width="50%"}
 
-#### (FB 聊天機器人原始碼)[https://github.com/ouvek-kostiva/MeowBot]
+#### [FB 聊天機器人原始碼](https://github.com/ouvek-kostiva/MeowBot)
 
 
 # 用 Heroku 架設 Django
