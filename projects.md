@@ -45,3 +45,7 @@ permalink: /projects/
 ![ministove](http://ouvek.com/assets/img/post/2018-01-15/stove.JPG){:height="50%" width="50%"}
 
 ![KUASchair](http://ouvek.com/assets/img/post/2018-01-15/chair.JPG){:height="50%" width="50%"}
+
+## 寫作
+
+[小說網站](https://ouvek.gitlab.io/)
