@@ -1,5 +1,5 @@
 ---
 layout: novel
-title: " "
-permalink: /novel/
+title: ""
+permalink: /blog/
 ---
