@@ -24,7 +24,7 @@ https://www.anaconda.com/download/
 
 # 選 3.x 版本的
 
-![Python 版本](https://github.com/ouvek-kostiva/ouvek-kostiva.github.io/blob/master/assets/img/post/pyinstall/python-ide-2.png)
+![Python 版本](https://raw.githubusercontent.com/ouvek-kostiva/ouvek-kostiva.github.io/master/assets/img/post/pyinstall/python-ide-2.png)
 
 # 安裝檔要 點右鍵 選 _以系統管理員身分執行_
 
